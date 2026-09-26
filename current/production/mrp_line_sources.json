@@ -1,0 +1,32 @@
+[
+  {
+    "created_at": "2026-09-26 03:37:38",
+    "id": "dbd7dd84-6065-4189-a03a-d22cf472c7a3",
+    "mrp_line_id": "5ad368d8-3495-4aa9-8f59-f34e85a8371a",
+    "net_shortage_quantity": 0,
+    "priority_rank": 1,
+    "production_plan_id": "3dd1a6c4-1fd9-4a26-99d0-149eec9f66bf",
+    "required_date": "2026-11-20",
+    "required_quantity": 10
+  },
+  {
+    "created_at": "2026-09-26 03:37:38",
+    "id": "f604fb75-42f9-45cd-9cfe-6503d932a30e",
+    "mrp_line_id": "704cae68-f7d3-469d-b97a-3a2450fcbad9",
+    "net_shortage_quantity": 20,
+    "priority_rank": 1,
+    "production_plan_id": "3dd1a6c4-1fd9-4a26-99d0-149eec9f66bf",
+    "required_date": "2026-11-20",
+    "required_quantity": 20
+  },
+  {
+    "created_at": "2026-09-26 03:37:38",
+    "id": "33dae766-8b88-4161-8060-4e8f9e195b0e",
+    "mrp_line_id": "7d13c850-6da2-46a1-b654-b5ab13f0a40c",
+    "net_shortage_quantity": 0,
+    "priority_rank": 1,
+    "production_plan_id": "3dd1a6c4-1fd9-4a26-99d0-149eec9f66bf",
+    "required_date": "2026-11-20",
+    "required_quantity": 10
+  }
+]

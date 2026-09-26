@@ -1,0 +1,18 @@
+[
+  {
+    "consumed_quantity": 10,
+    "created_at": "2026-09-26 03:37:38",
+    "created_by": "00564801-61b0-47be-a409-d15cca18711c",
+    "demand_tracking_line_id": "40acc212-ac19-4b83-b228-013c900e6153",
+    "fg_receipt_transaction_id": "17ec960d-5b68-49b2-9cec-202f8e216228",
+    "id": "ecfd7861-d66b-47aa-b603-dcb6842459dc",
+    "pdm_revision": "V3",
+    "product_sku": "LGS131B101V1S",
+    "release_reason": null,
+    "released_at": null,
+    "released_by": null,
+    "released_quantity": 0,
+    "reserved_quantity": 10,
+    "status": "CONSUMED"
+  }
+]
