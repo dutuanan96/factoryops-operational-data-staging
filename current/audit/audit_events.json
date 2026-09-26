@@ -223,5 +223,14 @@
     "id": "ee4cf816-b9af-4d0c-a3f7-ecfa610fa5c4",
     "metadata_json": "{\"orderNumber\":\"VP20260926001\",\"sourceMrpLineId\":\"8a127cf8-671e-4792-9aca-ee72a95183c3\",\"materialCode\":\"MAT-001\",\"orderedQuantity\":20}",
     "occurred_at": "2026-09-26 03:22:44"
+  },
+  {
+    "action": "RUN",
+    "actor_id": "00000000-0000-0000-0000-000000000001",
+    "entity_id": "d16fafb8-2b87-4c4d-9932-6b4766cbd61b",
+    "entity_type": "MRP",
+    "id": "005f7f4d-dc46-48e6-8510-77fc1777ea76",
+    "metadata_json": "{\"runNumber\":\"MRP-20260926032314-D16F\",\"materialCount\":3,\"sourceRowCount\":3,\"sourceProductionPlanCount\":1,\"pdmSourceCommitSha\":\"1111111111111111111111111111111111111111\",\"trigger\":\"AUTO_REFRESH\"}",
+    "occurred_at": "2026-09-26 03:23:14"
   }
 ]

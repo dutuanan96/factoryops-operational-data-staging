@@ -6,6 +6,15 @@
     "id": "1cf41c49-700c-45ee-a863-98f13baa5510",
     "pdm_source_commit_sha": "1111111111111111111111111111111111111111",
     "run_number": "MRP-20260926032244-1CF4",
+    "status": "SUPERSEDED"
+  },
+  {
+    "bom_versions": "V3",
+    "created_at": "2026-09-26 03:23:14",
+    "created_by": "00000000-0000-0000-0000-000000000001",
+    "id": "d16fafb8-2b87-4c4d-9932-6b4766cbd61b",
+    "pdm_source_commit_sha": "1111111111111111111111111111111111111111",
+    "run_number": "MRP-20260926032314-D16F",
     "status": "COMPLETED"
   }
 ]
