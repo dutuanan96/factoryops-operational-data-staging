@@ -223,5 +223,14 @@
     "id": "fcedb982-91a8-4c74-95d5-299938a0ffc5",
     "metadata_json": "{\"orderNumber\":\"MO-2611-00001\",\"sourcePlannedOrderId\":\"20dd65a0-54cb-4e5f-97bc-8236d14da2a1\",\"sourcePlannedOrderNumber\":\"PL-2611-00001\",\"status\":\"DRAFT\",\"plannedQuantity\":10,\"dueDate\":\"2026-11-20\",\"operationalDueDate\":\"2026-11-20\"}",
     "occurred_at": "2026-09-26 03:29:39"
+  },
+  {
+    "action": "RUN",
+    "actor_id": "00000000-0000-0000-0000-000000000001",
+    "entity_id": "60ca9e8f-688e-412e-b59f-ae6986bb81bb",
+    "entity_type": "MRP",
+    "id": "682290bd-85fa-4730-b07d-96fb4000b507",
+    "metadata_json": "{\"runNumber\":\"MRP-20260926033009-60CA\",\"materialCount\":3,\"sourceRowCount\":3,\"sourceProductionPlanCount\":1,\"pdmSourceCommitSha\":\"1111111111111111111111111111111111111111\",\"trigger\":\"AUTO_REFRESH\"}",
+    "occurred_at": "2026-09-26 03:30:09"
   }
 ]
