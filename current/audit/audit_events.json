@@ -223,5 +223,14 @@
     "id": "fc6d91da-350b-41e6-893a-b0a7cd982c80",
     "metadata_json": "{\"transactionNumber\":\"MI20260926003\",\"planNumber\":\"MO-2611-00001\",\"materialCode\":\"MAT-001\",\"quantity\":20,\"roundingAllowanceUsed\":0}",
     "occurred_at": "2026-09-26 03:35:30"
+  },
+  {
+    "action": "RUN",
+    "actor_id": "00000000-0000-0000-0000-000000000001",
+    "entity_id": "70f5e1fb-3ef8-421b-9aae-eb12e5a4a4d5",
+    "entity_type": "MRP",
+    "id": "63507422-417f-4480-836a-d2073c7e0e7b",
+    "metadata_json": "{\"runNumber\":\"MRP-20260926033600-70F5\",\"materialCount\":3,\"sourceRowCount\":3,\"sourceProductionPlanCount\":1,\"pdmSourceCommitSha\":\"1111111111111111111111111111111111111111\",\"trigger\":\"AUTO_REFRESH\"}",
+    "occurred_at": "2026-09-26 03:36:00"
   }
 ]
