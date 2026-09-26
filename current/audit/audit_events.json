@@ -223,5 +223,14 @@
     "id": "f3b2c80c-882e-4da0-abed-99229501093f",
     "metadata_json": "{}",
     "occurred_at": "2026-09-26 03:25:57"
+  },
+  {
+    "action": "RUN",
+    "actor_id": "00000000-0000-0000-0000-000000000001",
+    "entity_id": "a0694625-2cda-485d-83fc-e29901469ce5",
+    "entity_type": "MRP",
+    "id": "7da1f350-df54-4fa9-8390-64dcfa47d3b9",
+    "metadata_json": "{\"runNumber\":\"MRP-20260926032627-A069\",\"materialCount\":3,\"sourceRowCount\":3,\"sourceProductionPlanCount\":1,\"pdmSourceCommitSha\":\"1111111111111111111111111111111111111111\",\"trigger\":\"AUTO_REFRESH\"}",
+    "occurred_at": "2026-09-26 03:26:27"
   }
 ]
