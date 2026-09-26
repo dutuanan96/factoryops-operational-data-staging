@@ -17,6 +17,14 @@
   },
   {
     "active": 1,
+    "created_at": "2026-09-26 02:41:35",
+    "display_name": "Planner Offline 4",
+    "id": "b7960883-0edd-458f-bf7d-3b32199ed641",
+    "role": "PLANNING",
+    "username": "planner_offline_4"
+  },
+  {
+    "active": 1,
     "created_at": "2026-09-26 02:40:46",
     "display_name": "Planner Staging 1",
     "id": "0eff1409-730b-47e6-80ea-4338b00d9460",

@@ -61,5 +61,14 @@
     "id": "98f1e6a8-4372-4be7-975e-ef64792c54c3",
     "metadata_json": "{\"username\":\"worker_c3a\",\"role\":\"WAREHOUSE_PRODUCTION\"}",
     "occurred_at": "2026-09-26 02:41:10"
+  },
+  {
+    "action": "CREATE",
+    "actor_id": "8b03edc4-03d2-480a-a9e5-9d16990b8a7a",
+    "entity_id": "b7960883-0edd-458f-bf7d-3b32199ed641",
+    "entity_type": "USER",
+    "id": "119112ce-0c53-4272-bd3e-6389b7efcb51",
+    "metadata_json": "{\"username\":\"planner_offline_4\",\"role\":\"PLANNING\"}",
+    "occurred_at": "2026-09-26 02:41:35"
   }
 ]
