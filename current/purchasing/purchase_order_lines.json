@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "auxiliary_item_id": null,
+    "created_at": "2026-09-26 03:35:30",
+    "expected_date": "2026-11-16",
+    "id": "7822467f-1e87-4b14-b558-5fa050f5a8b9",
+    "line_number": 1,
+    "material_code": "MAT-001",
+    "material_name": "测试物料",
+    "material_version": "",
+    "ordered_quantity": 20,
+    "purchase_order_id": "e588233e-9571-4cfb-b755-4c8689708b97",
+    "source_manual_request_id": null,
+    "source_mrp_line_id": "0226d9e7-c83c-4afd-8e29-de74fb4436a9",
+    "source_plan_number": "MRP:0226d9e7-c83c-4afd-8e29-de74fb4436a9",
+    "source_type": "MRP",
+    "specification": "100×50mm",
+    "status": "RECEIVED",
+    "unit": "个"
+  }
+]

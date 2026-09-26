@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "converted_at": "2026-09-26 03:35:30",
+    "converted_production_plan_id": "4e75f3fc-ba0c-4890-945c-7a5ce9688b2a",
+    "created_at": "2026-09-26 03:35:30",
+    "created_by": "67d2b4b6-b399-4ead-b1c6-53684a660cd9",
+    "id": "9daeec7d-54d9-4144-83a8-014f2e1c1c06",
+    "lot_sizing_method": "DAILY_LOT_FOR_LOT",
+    "planned_order_number": "PL-2611-00001",
+    "planned_quantity": 10,
+    "product_sku": "LGS131B101V1S",
+    "requirement_date": "2026-11-20",
+    "scheduled_date": "2026-11-20",
+    "status": "CONVERTED",
+    "version": 2
+  }
+]
