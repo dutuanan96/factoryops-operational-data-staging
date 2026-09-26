@@ -34,5 +34,32 @@
     "id": "c9357c1e-e700-4c8c-a0fb-d90cae12bcfa",
     "metadata_json": "{\"username\":\"planner_staging_1\",\"role\":\"PLANNING\"}",
     "occurred_at": "2026-09-26 02:40:46"
+  },
+  {
+    "action": "CREATE",
+    "actor_id": "8b03edc4-03d2-480a-a9e5-9d16990b8a7a",
+    "entity_id": "bbeee9c4-0617-47a7-a863-26db79a1afc1",
+    "entity_type": "USER",
+    "id": "61fa7e0b-4eff-4399-a3cc-92090bca3181",
+    "metadata_json": "{\"username\":\"worker_c3b\",\"role\":\"WAREHOUSE_PRODUCTION\"}",
+    "occurred_at": "2026-09-26 02:41:10"
+  },
+  {
+    "action": "CREATE",
+    "actor_id": "8b03edc4-03d2-480a-a9e5-9d16990b8a7a",
+    "entity_id": "7f708ea9-5c8e-45d6-a22d-5e4eb38b7ddd",
+    "entity_type": "USER",
+    "id": "68bb6795-3fec-4e55-9d8a-4e0c3188a54c",
+    "metadata_json": "{\"username\":\"worker_c3c\",\"role\":\"WAREHOUSE_PRODUCTION\"}",
+    "occurred_at": "2026-09-26 02:41:10"
+  },
+  {
+    "action": "CREATE",
+    "actor_id": "8b03edc4-03d2-480a-a9e5-9d16990b8a7a",
+    "entity_id": "f8a7b949-8814-4611-beb5-7a7b6c4aaf97",
+    "entity_type": "USER",
+    "id": "98f1e6a8-4372-4be7-975e-ef64792c54c3",
+    "metadata_json": "{\"username\":\"worker_c3a\",\"role\":\"WAREHOUSE_PRODUCTION\"}",
+    "occurred_at": "2026-09-26 02:41:10"
   }
 ]
