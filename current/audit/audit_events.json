@@ -223,5 +223,14 @@
     "id": "fae4ac5d-2550-448f-a624-2351a6b3bb1f",
     "metadata_json": "{\"planNumber\":\"MO-2611-00001\",\"transactionNumber\":\"FG20260926001\",\"quantity\":10,\"totalCompleted\":10,\"effectiveDate\":\"2026-11-25\"}",
     "occurred_at": "2026-09-26 03:33:21"
+  },
+  {
+    "action": "RUN",
+    "actor_id": "00000000-0000-0000-0000-000000000001",
+    "entity_id": "ef5bf1dc-870b-4541-ae4e-42d8746a2cef",
+    "entity_type": "MRP",
+    "id": "93f15ae6-f6dd-4668-90bc-3f28b4f37ffa",
+    "metadata_json": "{\"runNumber\":\"MRP-20260926033351-EF5B\",\"materialCount\":3,\"sourceRowCount\":3,\"sourceProductionPlanCount\":1,\"pdmSourceCommitSha\":\"1111111111111111111111111111111111111111\",\"trigger\":\"AUTO_REFRESH\"}",
+    "occurred_at": "2026-09-26 03:33:51"
   }
 ]
