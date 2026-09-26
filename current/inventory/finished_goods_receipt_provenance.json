@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "bom_revision": "V3",
+    "bom_source_commit_sha": "1111111111111111111111111111111111111111",
+    "created_at": "2026-09-26 03:29:39",
+    "fg_receipt_transaction_id": "3a4f86fa-b900-4711-bfe6-a27a961b4f03",
+    "product_sku": "LGS131B101V1S",
+    "production_plan_id": "be45c742-66d0-45e8-8d43-9417e491f394",
+    "tracking_version": 1
+  }
+]

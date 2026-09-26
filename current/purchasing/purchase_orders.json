@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "8e365304-0a6c-45ce-aee4-e4e295d3affe",
+    "id": "0139d016-5c7a-43d5-ae9f-b3369ebec97d",
+    "issued_at": "2026-09-26 03:29:39",
+    "issued_by": "8e365304-0a6c-45ce-aee4-e4e295d3affe",
+    "order_number": "VP20260926001",
+    "status": "RECEIVED",
+    "supplier_code": "SUP-HONGXING-001",
+    "supplier_name": "宏兴",
+    "version": 3
+  }
+]

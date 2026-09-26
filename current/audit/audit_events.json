@@ -45,12 +45,102 @@
     "occurred_at": "2026-09-26 03:29:38"
   },
   {
+    "action": "RELEASE",
+    "actor_id": "a4cf32d3-94d7-4ff6-9abb-8c6b42094a3f",
+    "entity_id": "be45c742-66d0-45e8-8d43-9417e491f394",
+    "entity_type": "PRODUCTION_PLAN",
+    "id": "1a394e02-4d48-4eaf-8e11-6d2e04209fd0",
+    "metadata_json": "{\"expectedVersion\":1,\"bomRevision\":\"V3\",\"pdmSourceCommitSha\":\"1111111111111111111111111111111111111111\",\"bomLines\":6}",
+    "occurred_at": "2026-09-26 03:29:39"
+  },
+  {
+    "action": "REPORT_COMPLETION",
+    "actor_id": "e6cc6347-8b11-4ea0-888e-8bb0a6872ee1",
+    "entity_id": "be45c742-66d0-45e8-8d43-9417e491f394",
+    "entity_type": "PRODUCTION_EXECUTION",
+    "id": "334469b0-277b-4a33-9d8c-b49d38686f89",
+    "metadata_json": "{\"planNumber\":\"MO-2611-00001\",\"transactionNumber\":\"FG20260926001\",\"quantity\":10,\"totalCompleted\":10,\"effectiveDate\":\"2026-11-25\"}",
+    "occurred_at": "2026-09-26 03:29:39"
+  },
+  {
     "action": "LOGIN",
     "actor_id": "1fc80efb-3466-458d-8262-23c392f2fa5a",
     "entity_id": "f230a9fe0ab5ab91cf6c9097888ffee599a4c585d2829997799000ebc3db8e0c",
     "entity_type": "SESSION",
     "id": "4647c499-5b6a-483e-a4ac-4f467a975006",
     "metadata_json": "{}",
+    "occurred_at": "2026-09-26 03:29:39"
+  },
+  {
+    "action": "CREATE_DRAFT",
+    "actor_id": "8e365304-0a6c-45ce-aee4-e4e295d3affe",
+    "entity_id": "0139d016-5c7a-43d5-ae9f-b3369ebec97d",
+    "entity_type": "PURCHASE_ORDER",
+    "id": "5ed838dd-c8be-466f-830c-2c508c3d0d6c",
+    "metadata_json": "{\"orderNumber\":\"VP20260926001\",\"sourceMrpLineId\":\"e451327d-e585-4464-a5aa-511a95a5aa4a\",\"materialCode\":\"MAT-001\",\"orderedQuantity\":20}",
+    "occurred_at": "2026-09-26 03:29:39"
+  },
+  {
+    "action": "SYNC_READ_ONLY",
+    "actor_id": "a4cf32d3-94d7-4ff6-9abb-8c6b42094a3f",
+    "entity_id": "1111111111111111111111111111111111111111",
+    "entity_type": "PDM",
+    "id": "8d1072f8-bf74-41ac-9679-4cffd608e9e8",
+    "metadata_json": "{\"accessMode\":\"READ_ONLY\",\"products\":1,\"bomLines\":6}",
+    "occurred_at": "2026-09-26 03:29:39"
+  },
+  {
+    "action": "RUN",
+    "actor_id": "a4cf32d3-94d7-4ff6-9abb-8c6b42094a3f",
+    "entity_id": "e952437a-56f4-4a20-866e-b16fc8a3eed6",
+    "entity_type": "MRP",
+    "id": "8e8c0713-aae0-44e4-a075-ffb0ed31b990",
+    "metadata_json": "{\"runNumber\":\"MRP-20260926032939-E952\",\"materialCount\":3,\"sourceRowCount\":3,\"sourceProductionPlanCount\":1,\"pdmSourceCommitSha\":\"1111111111111111111111111111111111111111\",\"trigger\":\"MANUAL\"}",
+    "occurred_at": "2026-09-26 03:29:39"
+  },
+  {
+    "action": "POST",
+    "actor_id": "e6cc6347-8b11-4ea0-888e-8bb0a6872ee1",
+    "entity_id": "262f1d07-40b8-4f04-9362-3108407af93d",
+    "entity_type": "INVENTORY_TRANSACTION",
+    "id": "91286144-4e02-46fc-8f36-b0c6a6a59be7",
+    "metadata_json": "{\"transactionNumber\":\"MI20260926002\",\"planNumber\":\"MO-2611-00001\",\"materialCode\":\"LGS131WJBBH\",\"quantity\":10,\"roundingAllowanceUsed\":0}",
+    "occurred_at": "2026-09-26 03:29:39"
+  },
+  {
+    "action": "IMPORT",
+    "actor_id": "a4cf32d3-94d7-4ff6-9abb-8c6b42094a3f",
+    "entity_id": "1362287a-7dcb-477b-a60a-35f2de797a3d",
+    "entity_type": "SHIPMENT_PLAN_BATCH",
+    "id": "9627330d-3d58-4a18-8448-3fa6eb768008",
+    "metadata_json": "{\"sourceFingerprint\":\"fingerprint-domain-flow-2c39701c-0d0f-4cf2-8600-3a5b3b35371f\",\"lineCount\":1,\"totalQuantity\":10}",
+    "occurred_at": "2026-09-26 03:29:39"
+  },
+  {
+    "action": "POST",
+    "actor_id": "e6cc6347-8b11-4ea0-888e-8bb0a6872ee1",
+    "entity_id": "6fa1ea9f-b593-463e-ad1d-dc185e0a15c4",
+    "entity_type": "INVENTORY_TRANSACTION",
+    "id": "9c5adbe1-acde-45ca-b095-cf81d36078d8",
+    "metadata_json": "{\"transactionNumber\":\"MI20260926001\",\"planNumber\":\"MO-2611-00001\",\"materialCode\":\"DD1050\",\"quantity\":10,\"roundingAllowanceUsed\":0}",
+    "occurred_at": "2026-09-26 03:29:39"
+  },
+  {
+    "action": "POST",
+    "actor_id": "e6cc6347-8b11-4ea0-888e-8bb0a6872ee1",
+    "entity_id": "cbe564c7-8f20-46d0-99e2-c58cae9f642f",
+    "entity_type": "INVENTORY_TRANSACTION",
+    "id": "a5c60660-710d-4f06-a249-f5ca8998ecee",
+    "metadata_json": "{\"transactionNumber\":\"GR20260926001\",\"orderNumber\":\"VP20260926001\",\"lineId\":\"ce7e3575-0f60-4517-b63e-dda38659f56d\",\"deliveryNoteNumber\":\"\",\"effectiveDate\":\"2026-11-25\",\"note\":\"\"}",
+    "occurred_at": "2026-09-26 03:29:39"
+  },
+  {
+    "action": "ISSUE",
+    "actor_id": "8e365304-0a6c-45ce-aee4-e4e295d3affe",
+    "entity_id": "0139d016-5c7a-43d5-ae9f-b3369ebec97d",
+    "entity_type": "PURCHASE_ORDER",
+    "id": "a79da4a5-59de-4b78-8671-627d5ed6d135",
+    "metadata_json": "{\"orderNumber\":\"VP20260926001\",\"lineCount\":1}",
     "occurred_at": "2026-09-26 03:29:39"
   },
   {
@@ -63,12 +153,39 @@
     "occurred_at": "2026-09-26 03:29:39"
   },
   {
+    "action": "SHIP",
+    "actor_id": "e6cc6347-8b11-4ea0-888e-8bb0a6872ee1",
+    "entity_id": "0839e054-08db-4bac-b6ab-ef06cbc9c3b4",
+    "entity_type": "SHIPMENT_DEMAND",
+    "id": "b0fdeb83-d118-4e60-ae50-26d2f432d6d1",
+    "metadata_json": "{\"trackingNumber\":\"GT-2611-00001\",\"productSku\":\"LGS131B101V1S\",\"transactionNumber\":\"SH20261125-001\",\"quantity\":10,\"totalShipped\":10,\"remainingQuantity\":0,\"effectiveDate\":\"2026-11-25\",\"shipmentCode\":\"PLAN-DOMAIN-FLOW-01\",\"invoiceNumber\":\"INV-DOMAIN-FLOW-01\",\"operationId\":\"op-domain-ship-b5283005-c400-4771-a1f0-8910eb842ddd\"}",
+    "occurred_at": "2026-09-26 03:29:39"
+  },
+  {
     "action": "LOGIN",
     "actor_id": "8e365304-0a6c-45ce-aee4-e4e295d3affe",
     "entity_id": "b66ff283e228fb62b03b1348575352e8d2ea51047e1acf8d71528f24db96fba3",
     "entity_type": "SESSION",
     "id": "ba2b1a48-76a9-4224-8da1-a2cdb6661440",
     "metadata_json": "{}",
+    "occurred_at": "2026-09-26 03:29:39"
+  },
+  {
+    "action": "GENERATE",
+    "actor_id": "a4cf32d3-94d7-4ff6-9abb-8c6b42094a3f",
+    "entity_id": "20dd65a0-54cb-4e5f-97bc-8236d14da2a1",
+    "entity_type": "PLANNED_PRODUCTION_ORDER",
+    "id": "cbb6b8bb-cfa5-4042-b424-1059cb637413",
+    "metadata_json": "{\"orderNumber\":\"PL-2611-00001\",\"lotSizingMethod\":\"DAILY_LOT_FOR_LOT\",\"demandLineCount\":1,\"plannedQuantity\":10,\"requirementDate\":\"2026-11-20\",\"scheduledDate\":\"2026-11-20\",\"planningDailyCapacity\":1600,\"levelingHorizonDays\":7}",
+    "occurred_at": "2026-09-26 03:29:39"
+  },
+  {
+    "action": "POST",
+    "actor_id": "e6cc6347-8b11-4ea0-888e-8bb0a6872ee1",
+    "entity_id": "9d1c520c-9b03-43eb-82bf-070da76015bf",
+    "entity_type": "INVENTORY_TRANSACTION",
+    "id": "ccbf39c0-0c59-4bc8-9607-c2751ec61fcd",
+    "metadata_json": "{\"transactionNumber\":\"MI20260926003\",\"planNumber\":\"MO-2611-00001\",\"materialCode\":\"MAT-001\",\"quantity\":20,\"roundingAllowanceUsed\":0}",
     "occurred_at": "2026-09-26 03:29:39"
   },
   {
@@ -87,6 +204,24 @@
     "entity_type": "SESSION",
     "id": "e194f6f0-49d1-40fa-997c-f0239014770d",
     "metadata_json": "{}",
+    "occurred_at": "2026-09-26 03:29:39"
+  },
+  {
+    "action": "CONVERT",
+    "actor_id": "a4cf32d3-94d7-4ff6-9abb-8c6b42094a3f",
+    "entity_id": "20dd65a0-54cb-4e5f-97bc-8236d14da2a1",
+    "entity_type": "PLANNED_PRODUCTION_ORDER",
+    "id": "eb77612a-cc2d-4b47-aab1-244a483a01fe",
+    "metadata_json": "{\"plannedOrderNumber\":\"PL-2611-00001\",\"productionOrderNumber\":\"MO-2611-00001\",\"productionPlanId\":\"be45c742-66d0-45e8-8d43-9417e491f394\",\"plannedQuantity\":10,\"requirementDate\":\"2026-11-20\",\"scheduledDate\":\"2026-11-20\"}",
+    "occurred_at": "2026-09-26 03:29:39"
+  },
+  {
+    "action": "CREATE",
+    "actor_id": "a4cf32d3-94d7-4ff6-9abb-8c6b42094a3f",
+    "entity_id": "be45c742-66d0-45e8-8d43-9417e491f394",
+    "entity_type": "PRODUCTION_PLAN",
+    "id": "fcedb982-91a8-4c74-95d5-299938a0ffc5",
+    "metadata_json": "{\"orderNumber\":\"MO-2611-00001\",\"sourcePlannedOrderId\":\"20dd65a0-54cb-4e5f-97bc-8236d14da2a1\",\"sourcePlannedOrderNumber\":\"PL-2611-00001\",\"status\":\"DRAFT\",\"plannedQuantity\":10,\"dueDate\":\"2026-11-20\",\"operationalDueDate\":\"2026-11-20\"}",
     "occurred_at": "2026-09-26 03:29:39"
   }
 ]

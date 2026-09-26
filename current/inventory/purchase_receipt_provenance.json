@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "created_at": "2026-09-26 03:29:39",
+    "inventory_transaction_id": "cbe564c7-8f20-46d0-99e2-c58cae9f642f",
+    "purchase_order_line_id": "ce7e3575-0f60-4517-b63e-dda38659f56d"
+  }
+]
