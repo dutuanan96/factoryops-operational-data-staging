@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "bom_revision": "V3",
+    "bom_source_commit_sha": "1111111111111111111111111111111111111111",
+    "completed_at": "2026-09-26 03:25:57",
+    "created_at": "2026-09-26 03:25:57",
+    "created_by": "3cabfcbf-318a-4691-9ef0-8ce9b953680c",
+    "due_date": "2026-11-20",
+    "execution_status": "COMPLETED",
+    "id": "2c9f8c6d-a8ba-4df4-b88d-c4633f2f56a2",
+    "operational_due_date": "2026-11-20",
+    "plan_number": "MO-2611-00001",
+    "planned_quantity": 10,
+    "planning_model": "DAILY_LOT_FOR_LOT",
+    "product_sku": "LGS131B101V1S",
+    "released_at": "2026-09-26 03:25:57",
+    "released_by": "3cabfcbf-318a-4691-9ef0-8ce9b953680c",
+    "started_at": null,
+    "started_by": null,
+    "status": "RELEASED",
+    "version": 3
+  }
+]
