@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "allocated_quantity": 10,
+    "demand_tracking_line_id": "01d84e5a-d76e-4d92-b0d5-0e8ad75d8b92",
+    "id": "87f3a8a8-f0a2-438c-a6bf-63726b4d3572",
+    "planned_order_id": "f4aef108-152b-45ed-a5d7-666d9e8543cb"
+  }
+]

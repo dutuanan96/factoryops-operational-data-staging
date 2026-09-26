@@ -9,6 +9,24 @@
     "occurred_at": "2026-09-26 03:22:44"
   },
   {
+    "action": "IMPORT",
+    "actor_id": "31e4c2de-44ef-456b-b99b-9dccb74e6e6f",
+    "entity_id": "47d01195-2614-43d2-9eb8-64a05ca763d1",
+    "entity_type": "SHIPMENT_PLAN_BATCH",
+    "id": "255872d0-4e57-4b06-bd75-5d033fadaace",
+    "metadata_json": "{\"sourceFingerprint\":\"fingerprint-domain-flow-b08e6748-7112-4ca9-a8cb-fe4d8fe97c70\",\"lineCount\":1,\"totalQuantity\":10}",
+    "occurred_at": "2026-09-26 03:22:44"
+  },
+  {
+    "action": "CREATE",
+    "actor_id": "31e4c2de-44ef-456b-b99b-9dccb74e6e6f",
+    "entity_id": "46e399a9-1bec-4142-b817-90f3d7c26fe7",
+    "entity_type": "PRODUCTION_PLAN",
+    "id": "27ab1e4c-695b-4dcf-a761-fed39cd9105b",
+    "metadata_json": "{\"orderNumber\":\"MO-2611-00001\",\"sourcePlannedOrderId\":\"f4aef108-152b-45ed-a5d7-666d9e8543cb\",\"sourcePlannedOrderNumber\":\"PL-2611-00001\",\"status\":\"DRAFT\",\"plannedQuantity\":10,\"dueDate\":\"2026-11-20\",\"operationalDueDate\":\"2026-11-20\"}",
+    "occurred_at": "2026-09-26 03:22:44"
+  },
+  {
     "action": "CREATE_USER",
     "actor_id": "00000000-0000-0000-0000-000000000001",
     "entity_id": "74eca081-c377-4b10-a980-1e726f50c78f",
@@ -36,12 +54,48 @@
     "occurred_at": "2026-09-26 03:22:44"
   },
   {
+    "action": "CONVERT",
+    "actor_id": "31e4c2de-44ef-456b-b99b-9dccb74e6e6f",
+    "entity_id": "f4aef108-152b-45ed-a5d7-666d9e8543cb",
+    "entity_type": "PLANNED_PRODUCTION_ORDER",
+    "id": "4ba4dc7a-b42c-47a1-aa82-fc751df2baf4",
+    "metadata_json": "{\"plannedOrderNumber\":\"PL-2611-00001\",\"productionOrderNumber\":\"MO-2611-00001\",\"productionPlanId\":\"46e399a9-1bec-4142-b817-90f3d7c26fe7\",\"plannedQuantity\":10,\"requirementDate\":\"2026-11-20\",\"scheduledDate\":\"2026-11-20\"}",
+    "occurred_at": "2026-09-26 03:22:44"
+  },
+  {
+    "action": "REPORT_COMPLETION",
+    "actor_id": "37a0b42a-6804-49ac-89ad-cd0b31b993db",
+    "entity_id": "46e399a9-1bec-4142-b817-90f3d7c26fe7",
+    "entity_type": "PRODUCTION_EXECUTION",
+    "id": "4cc041d1-7646-47fa-9a9d-5d16e708e960",
+    "metadata_json": "{\"planNumber\":\"MO-2611-00001\",\"transactionNumber\":\"FG20260926001\",\"quantity\":10,\"totalCompleted\":10,\"effectiveDate\":\"2026-11-25\"}",
+    "occurred_at": "2026-09-26 03:22:44"
+  },
+  {
     "action": "CREATE_USER",
     "actor_id": "00000000-0000-0000-0000-000000000001",
     "entity_id": "a50b70ab-a36d-4ddf-aa10-01878796cbb8",
     "entity_type": "USER",
     "id": "527956c5-f746-432f-a4a4-de9850488a33",
     "metadata_json": "{\"target_user_id\":\"a50b70ab-a36d-4ddf-aa10-01878796cbb8\",\"username\":\"system.admin\",\"role\":\"ADMIN\",\"result\":\"SUCCESS\"}",
+    "occurred_at": "2026-09-26 03:22:44"
+  },
+  {
+    "action": "RUN",
+    "actor_id": "31e4c2de-44ef-456b-b99b-9dccb74e6e6f",
+    "entity_id": "1cf41c49-700c-45ee-a863-98f13baa5510",
+    "entity_type": "MRP",
+    "id": "589d1df7-96ce-41b1-b93b-9011cd1e46c8",
+    "metadata_json": "{\"runNumber\":\"MRP-20260926032244-1CF4\",\"materialCount\":3,\"sourceRowCount\":3,\"sourceProductionPlanCount\":1,\"pdmSourceCommitSha\":\"1111111111111111111111111111111111111111\",\"trigger\":\"MANUAL\"}",
+    "occurred_at": "2026-09-26 03:22:44"
+  },
+  {
+    "action": "POST",
+    "actor_id": "37a0b42a-6804-49ac-89ad-cd0b31b993db",
+    "entity_id": "8bbc84dd-985b-4bf5-8566-767b4dc49722",
+    "entity_type": "INVENTORY_TRANSACTION",
+    "id": "69a727a2-37bd-4a8c-b945-044900521ced",
+    "metadata_json": "{\"transactionNumber\":\"MI20260926002\",\"planNumber\":\"MO-2611-00001\",\"materialCode\":\"LGS131WJBBH\",\"quantity\":10,\"roundingAllowanceUsed\":0}",
     "occurred_at": "2026-09-26 03:22:44"
   },
   {
@@ -54,6 +108,24 @@
     "occurred_at": "2026-09-26 03:22:44"
   },
   {
+    "action": "POST",
+    "actor_id": "37a0b42a-6804-49ac-89ad-cd0b31b993db",
+    "entity_id": "7e61904e-13ca-4cd1-b444-acca3d338309",
+    "entity_type": "INVENTORY_TRANSACTION",
+    "id": "7e395e1e-547b-41bd-ad3a-62abf944e3f9",
+    "metadata_json": "{\"transactionNumber\":\"MI20260926003\",\"planNumber\":\"MO-2611-00001\",\"materialCode\":\"MAT-001\",\"quantity\":20,\"roundingAllowanceUsed\":0}",
+    "occurred_at": "2026-09-26 03:22:44"
+  },
+  {
+    "action": "SYNC_READ_ONLY",
+    "actor_id": "31e4c2de-44ef-456b-b99b-9dccb74e6e6f",
+    "entity_id": "1111111111111111111111111111111111111111",
+    "entity_type": "PDM",
+    "id": "84ab8ca0-c979-44d6-bafa-1f1dd5de881a",
+    "metadata_json": "{\"accessMode\":\"READ_ONLY\",\"products\":1,\"bomLines\":6}",
+    "occurred_at": "2026-09-26 03:22:44"
+  },
+  {
     "action": "CREATE_USER",
     "actor_id": "00000000-0000-0000-0000-000000000001",
     "entity_id": "31e4c2de-44ef-456b-b99b-9dccb74e6e6f",
@@ -63,12 +135,57 @@
     "occurred_at": "2026-09-26 03:22:44"
   },
   {
+    "action": "SHIP",
+    "actor_id": "37a0b42a-6804-49ac-89ad-cd0b31b993db",
+    "entity_id": "01d84e5a-d76e-4d92-b0d5-0e8ad75d8b92",
+    "entity_type": "SHIPMENT_DEMAND",
+    "id": "93e82423-cf89-4b7d-b676-6a9be8a9e743",
+    "metadata_json": "{\"trackingNumber\":\"GT-2611-00001\",\"productSku\":\"LGS131B101V1S\",\"transactionNumber\":\"SH20261125-001\",\"quantity\":10,\"totalShipped\":10,\"remainingQuantity\":0,\"effectiveDate\":\"2026-11-25\",\"shipmentCode\":\"PLAN-DOMAIN-FLOW-01\",\"invoiceNumber\":\"INV-DOMAIN-FLOW-01\",\"operationId\":\"op-domain-ship-10ba2b0a-e9a5-4ab1-996b-46b4b82166c3\"}",
+    "occurred_at": "2026-09-26 03:22:44"
+  },
+  {
+    "action": "RELEASE",
+    "actor_id": "31e4c2de-44ef-456b-b99b-9dccb74e6e6f",
+    "entity_id": "46e399a9-1bec-4142-b817-90f3d7c26fe7",
+    "entity_type": "PRODUCTION_PLAN",
+    "id": "95633765-18ab-4dc4-8b71-5ea7e9a328e1",
+    "metadata_json": "{\"expectedVersion\":1,\"bomRevision\":\"V3\",\"pdmSourceCommitSha\":\"1111111111111111111111111111111111111111\",\"bomLines\":6}",
+    "occurred_at": "2026-09-26 03:22:44"
+  },
+  {
+    "action": "POST",
+    "actor_id": "37a0b42a-6804-49ac-89ad-cd0b31b993db",
+    "entity_id": "157c1a8c-8fbb-4d47-b6b4-7857e4e2f00d",
+    "entity_type": "INVENTORY_TRANSACTION",
+    "id": "9657c588-8c08-470b-ac16-5c6b132b136a",
+    "metadata_json": "{\"transactionNumber\":\"MI20260926001\",\"planNumber\":\"MO-2611-00001\",\"materialCode\":\"DD1050\",\"quantity\":10,\"roundingAllowanceUsed\":0}",
+    "occurred_at": "2026-09-26 03:22:44"
+  },
+  {
     "action": "CREATE_USER",
     "actor_id": "00000000-0000-0000-0000-000000000001",
     "entity_id": "a76dc554-036b-4ac8-a96b-5c581864e8bb",
     "entity_type": "USER",
     "id": "a3eb3b26-70e8-418f-8d0c-c2d036e4c409",
     "metadata_json": "{\"target_user_id\":\"a76dc554-036b-4ac8-a96b-5c581864e8bb\",\"username\":\"purchasing\",\"role\":\"PURCHASING\",\"result\":\"SUCCESS\"}",
+    "occurred_at": "2026-09-26 03:22:44"
+  },
+  {
+    "action": "POST",
+    "actor_id": "37a0b42a-6804-49ac-89ad-cd0b31b993db",
+    "entity_id": "a15d3140-0aef-4d04-994f-064252a38547",
+    "entity_type": "INVENTORY_TRANSACTION",
+    "id": "afa6b137-e81a-44e4-a3b4-067a9165ac67",
+    "metadata_json": "{\"transactionNumber\":\"GR20260926001\",\"orderNumber\":\"VP20260926001\",\"lineId\":\"a1624a95-bd3f-43df-8c11-b2ea9301dbeb\",\"deliveryNoteNumber\":\"\",\"effectiveDate\":\"2026-11-25\",\"note\":\"\"}",
+    "occurred_at": "2026-09-26 03:22:44"
+  },
+  {
+    "action": "GENERATE",
+    "actor_id": "31e4c2de-44ef-456b-b99b-9dccb74e6e6f",
+    "entity_id": "f4aef108-152b-45ed-a5d7-666d9e8543cb",
+    "entity_type": "PLANNED_PRODUCTION_ORDER",
+    "id": "b6523133-c098-434b-ba6a-135abff74382",
+    "metadata_json": "{\"orderNumber\":\"PL-2611-00001\",\"lotSizingMethod\":\"DAILY_LOT_FOR_LOT\",\"demandLineCount\":1,\"plannedQuantity\":10,\"requirementDate\":\"2026-11-20\",\"scheduledDate\":\"2026-11-20\",\"planningDailyCapacity\":1600,\"levelingHorizonDays\":7}",
     "occurred_at": "2026-09-26 03:22:44"
   },
   {
@@ -87,6 +204,24 @@
     "entity_type": "SESSION",
     "id": "c5ff24c0-42ca-4169-b8e3-61e8076f4422",
     "metadata_json": "{}",
+    "occurred_at": "2026-09-26 03:22:44"
+  },
+  {
+    "action": "ISSUE",
+    "actor_id": "a76dc554-036b-4ac8-a96b-5c581864e8bb",
+    "entity_id": "76c5ec1c-2d99-4768-ba70-fa10d8cafabe",
+    "entity_type": "PURCHASE_ORDER",
+    "id": "c614fe72-3744-4f5e-8ed4-e23b06e9a0a4",
+    "metadata_json": "{\"orderNumber\":\"VP20260926001\",\"lineCount\":1}",
+    "occurred_at": "2026-09-26 03:22:44"
+  },
+  {
+    "action": "CREATE_DRAFT",
+    "actor_id": "a76dc554-036b-4ac8-a96b-5c581864e8bb",
+    "entity_id": "76c5ec1c-2d99-4768-ba70-fa10d8cafabe",
+    "entity_type": "PURCHASE_ORDER",
+    "id": "ee4cf816-b9af-4d0c-a3f7-ecfa610fa5c4",
+    "metadata_json": "{\"orderNumber\":\"VP20260926001\",\"sourceMrpLineId\":\"8a127cf8-671e-4792-9aca-ee72a95183c3\",\"materialCode\":\"MAT-001\",\"orderedQuantity\":20}",
     "occurred_at": "2026-09-26 03:22:44"
   }
 ]

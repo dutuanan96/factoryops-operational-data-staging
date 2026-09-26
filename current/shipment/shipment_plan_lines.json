@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "batch_id": "47d01195-2614-43d2-9eb8-64a05ca763d1",
+    "booking_status": "是",
+    "customer_purchase_order_code": "CUST-PO-DOMAIN-FLOW-01",
+    "destination_warehouse": "WH-PILOT-01",
+    "id": "61d99d4b-6c50-4e51-a382-8d2e363ab94d",
+    "initial_destination_warehouse": "WH-PILOT-01",
+    "initial_invoice_number": "INV-DOMAIN-FLOW-01",
+    "initial_quantity": 10,
+    "initial_reference_container_date": "2026-11-25",
+    "initial_shipment_plan_code": "PLAN-DOMAIN-FLOW-01",
+    "invoice_number": "INV-DOMAIN-FLOW-01",
+    "original_sku": "LGS131B101S",
+    "pdm_revision": "V3",
+    "pdm_source_commit_sha": "1111111111111111111111111111111111111111",
+    "product_name": "测试成品",
+    "product_sku": "LGS131B101V1S",
+    "quantity": 10,
+    "reference_container_date": "2026-11-25",
+    "shipment_plan_code": "PLAN-DOMAIN-FLOW-01",
+    "source_row": 1
+  }
+]

@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "47d01195-2614-43d2-9eb8-64a05ca763d1",
+    "imported_at": "2026-09-26 03:22:44",
+    "imported_by": "31e4c2de-44ef-456b-b99b-9dccb74e6e6f",
+    "line_count": 1,
+    "period": "2026-11",
+    "source_fingerprint": "fingerprint-domain-flow-b08e6748-7112-4ca9-a8cb-fe4d8fe97c70",
+    "source_name": "domain-flow-shipment-plan.xlsx",
+    "total_quantity": 10
+  }
+]
