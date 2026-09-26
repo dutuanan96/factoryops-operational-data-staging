@@ -1,0 +1,258 @@
+[
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "23999f62-b79c-44c4-ba80-831b7acb93df",
+    "supplier_code": "SUP-AOTONG-031",
+    "supplier_name": "奥通"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "19499976-7ec8-4ff1-8803-edd9aaebfa99",
+    "supplier_code": "SUP-CHENYU-025",
+    "supplier_name": "晨宇"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "e2a54740-db54-4d8f-b5a7-847b30c0931b",
+    "supplier_code": "SUP-DAHONGFA-028",
+    "supplier_name": "大宏发"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "c710038c-0ea8-443a-8785-28db91ad5f07",
+    "supplier_code": "SUP-DENGFENG-030",
+    "supplier_name": "登峰"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "bdef1d40-c85e-498e-8391-e49db8d4ed36",
+    "supplier_code": "SUP-GAOXIN-015",
+    "supplier_name": "高鑫"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "95801e7e-193b-4ad0-8c27-501a17cb7408",
+    "supplier_code": "SUP-GUANGZHOU-WOMING-DENGSHI-018",
+    "supplier_name": "广州沃明灯饰"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "cb65aba3-df16-4e75-8f89-0ac29eff7bce",
+    "supplier_code": "SUP-HONGXING-001",
+    "supplier_name": "宏兴"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "7d39bf84-aa9c-4ddc-ab40-7521eee74e61",
+    "supplier_code": "SUP-HUACHENG-005",
+    "supplier_name": "华城"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "3e406d6b-7828-481d-b76d-79ec7cef81e1",
+    "supplier_code": "SUP-JIEMEI-027",
+    "supplier_name": "杰美"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "f5738503-adb1-4a5b-bf1d-afda37c797c0",
+    "supplier_code": "SUP-JINYE-012",
+    "supplier_name": "金叶"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "6a239295-3d17-4508-8042-99a0d6b447df",
+    "supplier_code": "SUP-JUXIN-010",
+    "supplier_name": "聚鑫"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "bd37e059-37a8-4384-a6e5-847d7f119d7d",
+    "supplier_code": "SUP-LONGRUN-029",
+    "supplier_name": "龙润"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "2ee7e95e-cb0b-4c9f-b6fa-3fc1cbc516a5",
+    "supplier_code": "SUP-LUYUE-019",
+    "supplier_name": "陆越"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "99ee9858-f92e-492b-a4f4-56134628e66e",
+    "supplier_code": "SUP-MINGFENG-013",
+    "supplier_name": "铭峰"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "d272871f-26c1-476e-9b8d-d8881032938a",
+    "supplier_code": "SUP-MINJU-017",
+    "supplier_name": "敏钜"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "53c6f921-57a0-46f2-9ba3-8a7766d120ae",
+    "supplier_code": "SUP-OUBAO-008",
+    "supplier_name": "欧宝"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "be1aff68-2502-445d-8255-bdcb94a935a5",
+    "supplier_code": "SUP-PUWEI-021",
+    "supplier_name": "普维"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "14d0153d-8f59-4644-85eb-93077133a826",
+    "supplier_code": "SUP-QIAOFENG-016",
+    "supplier_name": "乔峰"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "af16f53c-0154-4f90-b2c3-2c9f0d1c7027",
+    "supplier_code": "SUP-QINGHAI-007",
+    "supplier_name": "晴海"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "23f0fe5a-7275-4246-a4aa-656117a8960a",
+    "supplier_code": "SUP-QINGYANG-BAOZHUANG-014",
+    "supplier_name": "青洋包装"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "f51c2029-ee6b-4048-bf2a-bf584d250630",
+    "supplier_code": "SUP-QINGYANG-LVSE-023",
+    "supplier_name": "青洋绿色"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "1e6831d3-9821-4c11-aadf-56214551454a",
+    "supplier_code": "SUP-RUNLONG-003",
+    "supplier_name": "润龙"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "91d821db-857c-4ba1-91ca-5388426a965c",
+    "supplier_code": "SUP-SHENGNAN-032",
+    "supplier_name": "盛南"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "e36ebfe2-4b61-4010-b38f-caeeadc2fb10",
+    "supplier_code": "SUP-SHENGYE-009",
+    "supplier_name": "盛业"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "59a7c114-eb81-4e5c-9138-cd8dc0d26694",
+    "supplier_code": "SUP-WEIZHENG-006",
+    "supplier_name": "威正"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "fcc4a2de-3333-458b-a53d-a542d5460c2f",
+    "supplier_code": "SUP-YIFENG-011",
+    "supplier_name": "邑丰"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "da827941-536d-435b-8e16-da1b9bd1f2c4",
+    "supplier_code": "SUP-YONGQIANG-002",
+    "supplier_name": "永强"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "c2d0afd1-2cec-434b-b7a9-3626c7c3432f",
+    "supplier_code": "SUP-YONGXING-020",
+    "supplier_name": "永兴"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "15a81a2c-56b5-4e00-ba83-5f2963c345fe",
+    "supplier_code": "SUP-YUEDA-024",
+    "supplier_name": "越达"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "d638297a-8dd4-4ab2-b982-dc41e9aeb7f2",
+    "supplier_code": "SUP-ZHIFENG-022",
+    "supplier_name": "至锋"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "809adadb-c8a0-4990-80b9-28e64c9b0f0d",
+    "supplier_code": "SUP-ZHISHANG-026",
+    "supplier_name": "至尚"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:29:39",
+    "created_by": "85b783f7-4892-4b89-beb1-6dc65e428780",
+    "id": "e853f7ff-303b-472b-80aa-38581cf55458",
+    "supplier_code": "SUP-ZHONGCHENG-004",
+    "supplier_name": "众城"
+  }
+]
