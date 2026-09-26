@@ -1,0 +1,11 @@
+[
+  {
+    "created_at": "2026-09-26 03:21:05",
+    "demand_tracking_line_id": "e1157dd5-09b9-48c8-bbcc-324429d6e20d",
+    "fg_receipt_transaction_id": "ed5d0fff-42f3-4a40-9cec-cd7991e1da1a",
+    "id": "3310f9d0-7a8f-4f75-87f1-2f6b4ad7e43d",
+    "product_sku": "LGS131B101V1S",
+    "quantity": 10,
+    "shipment_transaction_id": "13f81e8e-0e82-4928-b8a0-afd7697cd7a4"
+  }
+]

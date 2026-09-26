@@ -1,0 +1,50 @@
+[
+  {
+    "active": 1,
+    "canonical_sku": "LGS131B101V1S",
+    "reason": "Customer SKU synchronization",
+    "source_sku": "LGS131B101S"
+  },
+  {
+    "active": 1,
+    "canonical_sku": "LGS131K101V1S",
+    "reason": "SPU variant consistency",
+    "source_sku": "LGS131K101S"
+  },
+  {
+    "active": 1,
+    "canonical_sku": "LGS131W101V1S",
+    "reason": "Customer SKU synchronization",
+    "source_sku": "LGS131W101S"
+  },
+  {
+    "active": 1,
+    "canonical_sku": "LGS231B101V1S",
+    "reason": "Customer SKU synchronization",
+    "source_sku": "LGS231B101S"
+  },
+  {
+    "active": 1,
+    "canonical_sku": "LGS231K101V1S",
+    "reason": "SPU variant consistency",
+    "source_sku": "LGS231K101S"
+  },
+  {
+    "active": 1,
+    "canonical_sku": "LGS420B101V1S",
+    "reason": "Customer SKU synchronization",
+    "source_sku": "LGS420B101S"
+  },
+  {
+    "active": 1,
+    "canonical_sku": "LGS420K101V1S",
+    "reason": "SPU variant consistency",
+    "source_sku": "LGS420K101S"
+  },
+  {
+    "active": 1,
+    "canonical_sku": "LGS420W101V1S",
+    "reason": "Customer SKU synchronization",
+    "source_sku": "LGS420W101S"
+  }
+]

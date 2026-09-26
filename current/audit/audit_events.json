@@ -1,0 +1,218 @@
+[
+  {
+    "action": "CREATE_USER",
+    "actor_id": "00000000-0000-0000-0000-000000000001",
+    "entity_id": "af0b9d6b-16fd-4fe6-bb77-7cad8ac5cd4d",
+    "entity_type": "USER",
+    "id": "05df8815-5b44-4c05-8666-862f9781929a",
+    "metadata_json": "{\"target_user_id\":\"af0b9d6b-16fd-4fe6-bb77-7cad8ac5cd4d\",\"username\":\"warehouse\",\"role\":\"WAREHOUSE_PRODUCTION\",\"result\":\"SUCCESS\"}",
+    "occurred_at": "2026-09-26 03:21:05"
+  },
+  {
+    "action": "POST",
+    "actor_id": "af0b9d6b-16fd-4fe6-bb77-7cad8ac5cd4d",
+    "entity_id": "84dcc302-977b-4955-8f53-f82da8d82d3d",
+    "entity_type": "INVENTORY_TRANSACTION",
+    "id": "1204297d-783c-4d2d-975a-837636e7ba2c",
+    "metadata_json": "{\"transactionNumber\":\"GR20260926001\",\"orderNumber\":\"VP20260926001\",\"lineId\":\"b73bcd78-5226-496a-8235-cbe2807d41c5\",\"deliveryNoteNumber\":\"\",\"effectiveDate\":\"2026-11-25\",\"note\":\"\"}",
+    "occurred_at": "2026-09-26 03:21:05"
+  },
+  {
+    "action": "CREATE_USER",
+    "actor_id": "00000000-0000-0000-0000-000000000001",
+    "entity_id": "aadbf67d-1ac5-464b-baee-edf3bb6bdfda",
+    "entity_type": "USER",
+    "id": "125260e5-1079-45bc-ab4b-681f1b12b228",
+    "metadata_json": "{\"target_user_id\":\"aadbf67d-1ac5-464b-baee-edf3bb6bdfda\",\"username\":\"purchasing\",\"role\":\"PURCHASING\",\"result\":\"SUCCESS\"}",
+    "occurred_at": "2026-09-26 03:21:05"
+  },
+  {
+    "action": "LOGIN",
+    "actor_id": "af0b9d6b-16fd-4fe6-bb77-7cad8ac5cd4d",
+    "entity_id": "fd0a2c410b697371033456a62e859963323ebb555b824a603206b77fd6e7a611",
+    "entity_type": "SESSION",
+    "id": "19a00656-e164-4c7d-b48b-3dcde7788e19",
+    "metadata_json": "{}",
+    "occurred_at": "2026-09-26 03:21:05"
+  },
+  {
+    "action": "POST",
+    "actor_id": "af0b9d6b-16fd-4fe6-bb77-7cad8ac5cd4d",
+    "entity_id": "7a7100da-9e35-48db-80ba-28112f376212",
+    "entity_type": "INVENTORY_TRANSACTION",
+    "id": "1d34f72a-68b5-4774-b367-d98784028e32",
+    "metadata_json": "{\"transactionNumber\":\"MI20260926002\",\"planNumber\":\"MO-2611-00001\",\"materialCode\":\"LGS131WJBBH\",\"quantity\":10,\"roundingAllowanceUsed\":0}",
+    "occurred_at": "2026-09-26 03:21:05"
+  },
+  {
+    "action": "IMPORT",
+    "actor_id": "8d6035f3-3715-4b7b-95e1-7cac1a0c527a",
+    "entity_id": "c349b700-cabf-469c-a6ec-dfda520fb369",
+    "entity_type": "SHIPMENT_PLAN_BATCH",
+    "id": "21fda875-0fb5-49f4-b89e-9c833edb3968",
+    "metadata_json": "{\"sourceFingerprint\":\"fingerprint-domain-flow-8265637b-b781-4eff-a738-8c8d21c3d298\",\"lineCount\":1,\"totalQuantity\":10}",
+    "occurred_at": "2026-09-26 03:21:05"
+  },
+  {
+    "action": "LOGIN",
+    "actor_id": "8d6035f3-3715-4b7b-95e1-7cac1a0c527a",
+    "entity_id": "714b322b7015357aecf2b78701fa1bfb56c4f5a5ef09d27e782e437c5bafecb6",
+    "entity_type": "SESSION",
+    "id": "3874f481-3a2e-4e2e-a330-5f15451d5edf",
+    "metadata_json": "{}",
+    "occurred_at": "2026-09-26 03:21:05"
+  },
+  {
+    "action": "CREATE",
+    "actor_id": "8d6035f3-3715-4b7b-95e1-7cac1a0c527a",
+    "entity_id": "5b3a1e6c-9ed1-4644-bdd7-957e1d30548c",
+    "entity_type": "PRODUCTION_PLAN",
+    "id": "38be6cd2-10f3-4e71-a75b-e826e6c0308c",
+    "metadata_json": "{\"orderNumber\":\"MO-2611-00001\",\"sourcePlannedOrderId\":\"e039fd8d-a963-4e9a-94b0-fb2f3debf596\",\"sourcePlannedOrderNumber\":\"PL-2611-00001\",\"status\":\"DRAFT\",\"plannedQuantity\":10,\"dueDate\":\"2026-11-20\",\"operationalDueDate\":\"2026-11-20\"}",
+    "occurred_at": "2026-09-26 03:21:05"
+  },
+  {
+    "action": "RELEASE",
+    "actor_id": "8d6035f3-3715-4b7b-95e1-7cac1a0c527a",
+    "entity_id": "5b3a1e6c-9ed1-4644-bdd7-957e1d30548c",
+    "entity_type": "PRODUCTION_PLAN",
+    "id": "47b40b94-509e-436c-895c-00579bf19492",
+    "metadata_json": "{\"expectedVersion\":1,\"bomRevision\":\"V3\",\"pdmSourceCommitSha\":\"1111111111111111111111111111111111111111\",\"bomLines\":6}",
+    "occurred_at": "2026-09-26 03:21:05"
+  },
+  {
+    "action": "SYNC_READ_ONLY",
+    "actor_id": "8d6035f3-3715-4b7b-95e1-7cac1a0c527a",
+    "entity_id": "1111111111111111111111111111111111111111",
+    "entity_type": "PDM",
+    "id": "49523863-4acc-4969-be3d-6193de357bd7",
+    "metadata_json": "{\"accessMode\":\"READ_ONLY\",\"products\":1,\"bomLines\":6}",
+    "occurred_at": "2026-09-26 03:21:05"
+  },
+  {
+    "action": "POST",
+    "actor_id": "af0b9d6b-16fd-4fe6-bb77-7cad8ac5cd4d",
+    "entity_id": "10e152d8-8f3a-4ed7-b1dd-514b1999b589",
+    "entity_type": "INVENTORY_TRANSACTION",
+    "id": "4e5e2c19-ac59-42ab-9b4f-31d71fb2f3cf",
+    "metadata_json": "{\"transactionNumber\":\"MI20260926003\",\"planNumber\":\"MO-2611-00001\",\"materialCode\":\"MAT-001\",\"quantity\":20,\"roundingAllowanceUsed\":0}",
+    "occurred_at": "2026-09-26 03:21:05"
+  },
+  {
+    "action": "LOGIN",
+    "actor_id": "aadbf67d-1ac5-464b-baee-edf3bb6bdfda",
+    "entity_id": "b91b73d72291f9726a5699865c86a2fdecca4731fb8792521d18fb940ab6776a",
+    "entity_type": "SESSION",
+    "id": "5fb874b9-0bf8-4842-9a6f-29608224d3e6",
+    "metadata_json": "{}",
+    "occurred_at": "2026-09-26 03:21:05"
+  },
+  {
+    "action": "SEED_DEFAULT",
+    "actor_id": "21835d91-5a60-4de7-9774-f98cd00e71f0",
+    "entity_id": "DEFAULT_V2",
+    "entity_type": "SUPPLIER_CATALOG",
+    "id": "65ddbbef-a142-4bc7-96d4-1e1ab3c90404",
+    "metadata_json": "{\"inserted\":32}",
+    "occurred_at": "2026-09-26 03:21:05"
+  },
+  {
+    "action": "ISSUE",
+    "actor_id": "aadbf67d-1ac5-464b-baee-edf3bb6bdfda",
+    "entity_id": "0670469b-d222-4c4c-b380-4bfad1cacf6b",
+    "entity_type": "PURCHASE_ORDER",
+    "id": "6bd06dea-5c65-4dd0-acea-2ffc808e7483",
+    "metadata_json": "{\"orderNumber\":\"VP20260926001\",\"lineCount\":1}",
+    "occurred_at": "2026-09-26 03:21:05"
+  },
+  {
+    "action": "CREATE_DRAFT",
+    "actor_id": "aadbf67d-1ac5-464b-baee-edf3bb6bdfda",
+    "entity_id": "0670469b-d222-4c4c-b380-4bfad1cacf6b",
+    "entity_type": "PURCHASE_ORDER",
+    "id": "8f905a94-0870-42cb-a8e0-c280e5e038e5",
+    "metadata_json": "{\"orderNumber\":\"VP20260926001\",\"sourceMrpLineId\":\"c0d55b07-8a68-40ee-8a8c-09318cb80142\",\"materialCode\":\"MAT-001\",\"orderedQuantity\":20}",
+    "occurred_at": "2026-09-26 03:21:05"
+  },
+  {
+    "action": "CREATE_USER",
+    "actor_id": "00000000-0000-0000-0000-000000000001",
+    "entity_id": "4f29b5ed-67e3-4499-9d58-9920cdc520d8",
+    "entity_type": "USER",
+    "id": "979572dc-1a29-4fb4-aaaa-aab58e04a2f9",
+    "metadata_json": "{\"target_user_id\":\"4f29b5ed-67e3-4499-9d58-9920cdc520d8\",\"username\":\"system.admin\",\"role\":\"ADMIN\",\"result\":\"SUCCESS\"}",
+    "occurred_at": "2026-09-26 03:21:05"
+  },
+  {
+    "action": "RUN",
+    "actor_id": "8d6035f3-3715-4b7b-95e1-7cac1a0c527a",
+    "entity_id": "cb45b71e-df81-44b7-86e1-09e4ae44d07c",
+    "entity_type": "MRP",
+    "id": "9c80f106-ec9b-46c3-9877-e977b7d80968",
+    "metadata_json": "{\"runNumber\":\"MRP-20260926032105-CB45\",\"materialCount\":3,\"sourceRowCount\":3,\"sourceProductionPlanCount\":1,\"pdmSourceCommitSha\":\"1111111111111111111111111111111111111111\",\"trigger\":\"MANUAL\"}",
+    "occurred_at": "2026-09-26 03:21:05"
+  },
+  {
+    "action": "CREATE_USER",
+    "actor_id": "00000000-0000-0000-0000-000000000001",
+    "entity_id": "21835d91-5a60-4de7-9774-f98cd00e71f0",
+    "entity_type": "USER",
+    "id": "a74a0733-d30e-406e-ac3e-bacb10c24b0f",
+    "metadata_json": "{\"target_user_id\":\"21835d91-5a60-4de7-9774-f98cd00e71f0\",\"username\":\"approver\",\"role\":\"ADMIN\",\"result\":\"SUCCESS\"}",
+    "occurred_at": "2026-09-26 03:21:05"
+  },
+  {
+    "action": "CREATE_USER",
+    "actor_id": "00000000-0000-0000-0000-000000000001",
+    "entity_id": "8d6035f3-3715-4b7b-95e1-7cac1a0c527a",
+    "entity_type": "USER",
+    "id": "b3e4eed1-081e-4589-b93a-6d794ec7e4f6",
+    "metadata_json": "{\"target_user_id\":\"8d6035f3-3715-4b7b-95e1-7cac1a0c527a\",\"username\":\"pmc\",\"role\":\"PLANNING\",\"result\":\"SUCCESS\"}",
+    "occurred_at": "2026-09-26 03:21:05"
+  },
+  {
+    "action": "CONVERT",
+    "actor_id": "8d6035f3-3715-4b7b-95e1-7cac1a0c527a",
+    "entity_id": "e039fd8d-a963-4e9a-94b0-fb2f3debf596",
+    "entity_type": "PLANNED_PRODUCTION_ORDER",
+    "id": "b7449023-717c-462a-a948-e6e54e396fde",
+    "metadata_json": "{\"plannedOrderNumber\":\"PL-2611-00001\",\"productionOrderNumber\":\"MO-2611-00001\",\"productionPlanId\":\"5b3a1e6c-9ed1-4644-bdd7-957e1d30548c\",\"plannedQuantity\":10,\"requirementDate\":\"2026-11-20\",\"scheduledDate\":\"2026-11-20\"}",
+    "occurred_at": "2026-09-26 03:21:05"
+  },
+  {
+    "action": "REPORT_COMPLETION",
+    "actor_id": "af0b9d6b-16fd-4fe6-bb77-7cad8ac5cd4d",
+    "entity_id": "5b3a1e6c-9ed1-4644-bdd7-957e1d30548c",
+    "entity_type": "PRODUCTION_EXECUTION",
+    "id": "d95b8e4a-302c-4cd8-8185-70c1cd2c4abd",
+    "metadata_json": "{\"planNumber\":\"MO-2611-00001\",\"transactionNumber\":\"FG20260926001\",\"quantity\":10,\"totalCompleted\":10,\"effectiveDate\":\"2026-11-25\"}",
+    "occurred_at": "2026-09-26 03:21:05"
+  },
+  {
+    "action": "SHIP",
+    "actor_id": "af0b9d6b-16fd-4fe6-bb77-7cad8ac5cd4d",
+    "entity_id": "e1157dd5-09b9-48c8-bbcc-324429d6e20d",
+    "entity_type": "SHIPMENT_DEMAND",
+    "id": "f1696ab7-9329-4808-8ea1-ab6625cd1dcb",
+    "metadata_json": "{\"trackingNumber\":\"GT-2611-00001\",\"productSku\":\"LGS131B101V1S\",\"transactionNumber\":\"SH20261125-001\",\"quantity\":10,\"totalShipped\":10,\"remainingQuantity\":0,\"effectiveDate\":\"2026-11-25\",\"shipmentCode\":\"PLAN-DOMAIN-FLOW-01\",\"invoiceNumber\":\"INV-DOMAIN-FLOW-01\",\"operationId\":\"op-domain-ship-c3e13e2c-0262-48e7-ac26-eff4ba2c2f1c\"}",
+    "occurred_at": "2026-09-26 03:21:05"
+  },
+  {
+    "action": "POST",
+    "actor_id": "af0b9d6b-16fd-4fe6-bb77-7cad8ac5cd4d",
+    "entity_id": "0349774d-a8ac-4ca7-9f95-b965170da83e",
+    "entity_type": "INVENTORY_TRANSACTION",
+    "id": "f44fb202-309a-4115-9ba5-e98126068df6",
+    "metadata_json": "{\"transactionNumber\":\"MI20260926001\",\"planNumber\":\"MO-2611-00001\",\"materialCode\":\"DD1050\",\"quantity\":10,\"roundingAllowanceUsed\":0}",
+    "occurred_at": "2026-09-26 03:21:05"
+  },
+  {
+    "action": "GENERATE",
+    "actor_id": "8d6035f3-3715-4b7b-95e1-7cac1a0c527a",
+    "entity_id": "e039fd8d-a963-4e9a-94b0-fb2f3debf596",
+    "entity_type": "PLANNED_PRODUCTION_ORDER",
+    "id": "f856a636-d59c-402a-a23c-649b7e9d5d3c",
+    "metadata_json": "{\"orderNumber\":\"PL-2611-00001\",\"lotSizingMethod\":\"DAILY_LOT_FOR_LOT\",\"demandLineCount\":1,\"plannedQuantity\":10,\"requirementDate\":\"2026-11-20\",\"scheduledDate\":\"2026-11-20\",\"planningDailyCapacity\":1600,\"levelingHorizonDays\":7}",
+    "occurred_at": "2026-09-26 03:21:05"
+  }
+]
