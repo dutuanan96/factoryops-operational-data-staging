@@ -1,0 +1,29 @@
+[
+  {
+    "action": "SEED_DEFAULT",
+    "actor_id": "8b03edc4-03d2-480a-a9e5-9d16990b8a7a",
+    "entity_id": "DEFAULT_V2",
+    "entity_type": "SUPPLIER_CATALOG",
+    "id": "2ca022b6-503f-4b8e-b22c-26227d06b6d4",
+    "metadata_json": "{\"inserted\":32}",
+    "occurred_at": "2026-09-26 02:40:21"
+  },
+  {
+    "action": "BOOTSTRAP_ADMIN",
+    "actor_id": "8b03edc4-03d2-480a-a9e5-9d16990b8a7a",
+    "entity_id": "8b03edc4-03d2-480a-a9e5-9d16990b8a7a",
+    "entity_type": "USER",
+    "id": "48a96c84-eb2a-4f5c-8a6c-049227aa9038",
+    "metadata_json": "{}",
+    "occurred_at": "2026-09-26 02:40:21"
+  },
+  {
+    "action": "LOGIN",
+    "actor_id": "8b03edc4-03d2-480a-a9e5-9d16990b8a7a",
+    "entity_id": "7779c04faf535075c619d3ea7175ec4fd3ae6d4fa7fbfe9696aa130bac0e21f7",
+    "entity_type": "SESSION",
+    "id": "c1c8c330-e274-46c9-8143-7b0f3e01e4fe",
+    "metadata_json": "{}",
+    "occurred_at": "2026-09-26 02:40:21"
+  }
+]
