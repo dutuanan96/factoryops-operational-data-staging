@@ -2,7 +2,7 @@
   "factoryInstanceId": "factory-staging-01",
   "fileCount": 35,
   "files": {
-    "audit/audit_events.json": "7addc00de2b17641934e4607ffbb43eb7cbbe2b9710d8e6ccac6e8eb9d2fd194",
+    "audit/audit_events.json": "3f17f3bc0968dba536271d4725db4f8ac8cb2a63dcf64bf298251b0cc6be9d66",
     "inventory/auxiliary_items.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
     "inventory/finished_goods_receipt_consumptions.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
     "inventory/finished_goods_receipt_provenance.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
@@ -36,9 +36,9 @@
     "shipment/shipment_import_batches.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
     "shipment/shipment_operations.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
     "shipment/shipment_plan_lines.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
-    "system/users.json": "13b725625dfdef675375a1a0f7717d258551061052a6ba8d6a4f46893cec358e"
+    "system/users.json": "88c2ccaa4fae63340a3b83b752780c4f8c2c42df06fe4d5f8e3e75c64e7a5ca2"
   },
-  "lastRepresentedSyncSeq": 1,
+  "lastRepresentedSyncSeq": 2,
   "schemaVersion": "1.0",
   "sourceRevision": "af30c9685ae9820f26b13810c2c03d6eee52217c-dirty-66a6268c4451"
 }

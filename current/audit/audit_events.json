@@ -25,5 +25,14 @@
     "id": "c1c8c330-e274-46c9-8143-7b0f3e01e4fe",
     "metadata_json": "{}",
     "occurred_at": "2026-09-26 02:40:21"
+  },
+  {
+    "action": "CREATE",
+    "actor_id": "8b03edc4-03d2-480a-a9e5-9d16990b8a7a",
+    "entity_id": "0eff1409-730b-47e6-80ea-4338b00d9460",
+    "entity_type": "USER",
+    "id": "c9357c1e-e700-4c8c-a0fb-d90cae12bcfa",
+    "metadata_json": "{\"username\":\"planner_staging_1\",\"role\":\"PLANNING\"}",
+    "occurred_at": "2026-09-26 02:40:46"
   }
 ]

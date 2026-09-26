@@ -14,5 +14,13 @@
     "id": "8b03edc4-03d2-480a-a9e5-9d16990b8a7a",
     "role": "ADMIN",
     "username": "admin"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 02:40:46",
+    "display_name": "Planner Staging 1",
+    "id": "0eff1409-730b-47e6-80ea-4338b00d9460",
+    "role": "PLANNING",
+    "username": "planner_staging_1"
   }
 ]
