@@ -1,0 +1,50 @@
+[
+  {
+    "active": 0,
+    "created_at": "2026-09-26 03:35:30",
+    "display_name": "系统自动化",
+    "id": "00000000-0000-0000-0000-000000000001",
+    "role": "PLANNING",
+    "username": "__system_mrp_automation__"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:35:30",
+    "display_name": "审批管理员",
+    "id": "3a931bed-daf1-44cc-b2a4-29ea04b2fae5",
+    "role": "ADMIN",
+    "username": "approver"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:35:30",
+    "display_name": "PMC计划员",
+    "id": "67d2b4b6-b399-4ead-b1c6-53684a660cd9",
+    "role": "PLANNING",
+    "username": "pmc"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:35:30",
+    "display_name": "采购员",
+    "id": "051b77c9-b4cc-4829-8400-774c1501a318",
+    "role": "PURCHASING",
+    "username": "purchasing"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:35:30",
+    "display_name": "系统管理员",
+    "id": "69b079c1-7364-4795-aa4a-a8cf71696a32",
+    "role": "ADMIN",
+    "username": "system.admin"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-09-26 03:35:30",
+    "display_name": "仓库生产员",
+    "id": "d2f93b80-2653-4b2e-b1fb-83a98edc241c",
+    "role": "WAREHOUSE_PRODUCTION",
+    "username": "warehouse"
+  }
+]
