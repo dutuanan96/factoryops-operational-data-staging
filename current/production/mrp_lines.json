@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "available_inventory": 500,
+    "confirmed_inbound": 0,
+    "gross_requirement": 10,
+    "handling_buffer_days": 4,
+    "id": "a3c90ae8-0ce3-481a-ad1e-7b6c4cc7e39d",
+    "material_code": "DD1050",
+    "material_name": "1050-灯带",
+    "mrp_run_id": "aa44bbd1-c7e7-4226-9f38-c4cecd49c8cc",
+    "net_shortage": 0,
+    "order_by_date": "2026-10-27",
+    "procurement_category": "OTHER",
+    "procurement_lead_days": 20,
+    "required_date": "2026-11-20",
+    "rework_requirement_quantity": 0,
+    "supplier_arrival_due_date": "2026-11-16"
+  },
+  {
+    "available_inventory": 500,
+    "confirmed_inbound": 0,
+    "gross_requirement": 10,
+    "handling_buffer_days": 4,
+    "id": "fa4a27ca-4bb1-4cf0-8c24-c21e6786644f",
+    "material_code": "LGS131WJBBH",
+    "material_name": "LGS131五金包",
+    "mrp_run_id": "aa44bbd1-c7e7-4226-9f38-c4cecd49c8cc",
+    "net_shortage": 0,
+    "order_by_date": "2026-10-27",
+    "procurement_category": "METAL",
+    "procurement_lead_days": 20,
+    "required_date": "2026-11-20",
+    "rework_requirement_quantity": 0,
+    "supplier_arrival_due_date": "2026-11-16"
+  },
+  {
+    "available_inventory": 0,
+    "confirmed_inbound": 0,
+    "gross_requirement": 20,
+    "handling_buffer_days": 4,
+    "id": "27a8fa1a-632d-43c2-9f1c-db455a4547be",
+    "material_code": "MAT-001",
+    "material_name": "测试物料",
+    "mrp_run_id": "aa44bbd1-c7e7-4226-9f38-c4cecd49c8cc",
+    "net_shortage": 20,
+    "order_by_date": "2026-10-27",
+    "procurement_category": "OTHER",
+    "procurement_lead_days": 20,
+    "required_date": "2026-11-20",
+    "rework_requirement_quantity": 0,
+    "supplier_arrival_due_date": "2026-11-16"
+  }
+]

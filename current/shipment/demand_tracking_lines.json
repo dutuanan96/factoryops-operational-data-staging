@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "active": 0,
+    "created_at": "2026-09-26 03:33:21",
+    "id": "9bb20918-9f9d-4339-a7e4-ce69ca324327",
+    "shipment_plan_line_id": "91147e8a-aad2-4b08-8ad1-bcf193d74ab4",
+    "tracking_number": "GT-2611-00001",
+    "version": 1
+  }
+]
