@@ -1,0 +1,26 @@
+[
+  {
+    "active": 0,
+    "created_at": "2026-09-11 02:25:04",
+    "display_name": "系统自动化",
+    "id": "00000000-0000-0000-0000-000000000001",
+    "role": "PLANNING",
+    "username": "__system_mrp_automation__"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-08-25 03:11:30",
+    "display_name": "系统管理员",
+    "id": "acce4cff-6984-4fdd-884e-f53906435484",
+    "role": "ADMIN",
+    "username": "admin"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-08-27 06:16:10",
+    "display_name": "生产计划员",
+    "id": "user-planner-01",
+    "role": "PLANNING",
+    "username": "planner"
+  }
+]
