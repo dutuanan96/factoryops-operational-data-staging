@@ -9025,5 +9025,23 @@
     "id": "03327fc7-8df4-4b26-bb23-513819b59f29",
     "metadata_json": "{\"supplierName\":\"TEST FactoryOps GitHub Sync E2E 2026-10-09\"}",
     "occurred_at": "2026-10-09 02:37:09"
+  },
+  {
+    "action": "LOGIN",
+    "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
+    "entity_id": "LOGIN-AUDIT:fe977e1f-1d3a-4368-b1e3-393dc6b8bc5d",
+    "entity_type": "SESSION",
+    "id": "fe977e1f-1d3a-4368-b1e3-393dc6b8bc5d",
+    "metadata_json": "{}",
+    "occurred_at": "2026-10-09 06:32:09"
+  },
+  {
+    "action": "IMPORT",
+    "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
+    "entity_id": "47a7f9e6-852a-456c-996f-256aa62d758f",
+    "entity_type": "SHIPMENT_PLAN_BATCH",
+    "id": "664f8460-fc5e-414d-a6e0-197233f72079",
+    "metadata_json": "{\"sourceFingerprint\":\"e42875d4b500a617850670196f2ec7cd5b4ad3c36e2876bc6014cd266df26f09\",\"lineCount\":2,\"totalQuantity\":2}",
+    "occurred_at": "2026-10-09 06:45:48"
   }
 ]

@@ -1,1442 +1,2882 @@
 [
   {
     "allocated_quantity": 29,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "181803c0-c088-40ab-a5d3-b1962d9eb46c",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "90277f02-72e5-4657-880e-f260b35185f5",
-    "planned_order_id": "00cea9b2-29a8-47c2-97fd-c32331b4e802"
+    "planned_order_id": "00cea9b2-29a8-47c2-97fd-c32331b4e802",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "45624776-6fda-4fa6-86e6-dad20c3b710d",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "00f51030-f3ad-4f05-aec8-df58b4931ed6",
-    "planned_order_id": "00cea9b2-29a8-47c2-97fd-c32331b4e802"
+    "planned_order_id": "00cea9b2-29a8-47c2-97fd-c32331b4e802",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "7bc45570-a0e2-4f08-9b60-3c1b0482ea20",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "64a93945-f58f-484a-b4a6-fa74c9bd5be2",
-    "planned_order_id": "00cea9b2-29a8-47c2-97fd-c32331b4e802"
+    "planned_order_id": "00cea9b2-29a8-47c2-97fd-c32331b4e802",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 77,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "af6a7f77-8e5b-4f92-96a9-a0c241b0e9fb",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "141fdccf-76ab-40e8-842d-15a68c1cc87c",
-    "planned_order_id": "00cea9b2-29a8-47c2-97fd-c32331b4e802"
+    "planned_order_id": "00cea9b2-29a8-47c2-97fd-c32331b4e802",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 52,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "b627f3a4-6b48-4233-a7ba-a9cadf1a9be4",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "c6696d4b-2f78-4643-9ec6-031a2aecd354",
-    "planned_order_id": "00cea9b2-29a8-47c2-97fd-c32331b4e802"
+    "planned_order_id": "00cea9b2-29a8-47c2-97fd-c32331b4e802",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 23,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "f2f2ac98-8d02-4379-ab95-a3024d4be792",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "3204312e-aa2d-4d3c-b3ce-7379ecbfc558",
-    "planned_order_id": "00cea9b2-29a8-47c2-97fd-c32331b4e802"
+    "planned_order_id": "00cea9b2-29a8-47c2-97fd-c32331b4e802",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 100,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "1ca741bd-5150-4e66-8f92-822349414d76",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "f39c96e4-30a1-4149-a2d5-a2fe01495bc1",
-    "planned_order_id": "021c1a42-f38f-4ac3-8f4e-a107f648bd24"
+    "planned_order_id": "021c1a42-f38f-4ac3-8f4e-a107f648bd24",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 55,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "687af770-e5d7-430d-a90c-4d150e5f0b09",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "b42faaf1-58f6-45dc-b057-fcfcf2bfafdf",
-    "planned_order_id": "021c1a42-f38f-4ac3-8f4e-a107f648bd24"
+    "planned_order_id": "021c1a42-f38f-4ac3-8f4e-a107f648bd24",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 255,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "9196771d-9fb2-4ae8-b138-68045b1a5375",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "bdeac6a2-5799-4c18-a269-4b8f245e6605",
-    "planned_order_id": "021c1a42-f38f-4ac3-8f4e-a107f648bd24"
+    "planned_order_id": "021c1a42-f38f-4ac3-8f4e-a107f648bd24",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 500,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "fa02343e-c0ef-4781-a778-950139b9b355",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "ffe0d6ca-2a9f-4a1c-b26d-1cc0d690e2dd",
-    "planned_order_id": "021c1a42-f38f-4ac3-8f4e-a107f648bd24"
+    "planned_order_id": "021c1a42-f38f-4ac3-8f4e-a107f648bd24",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 226,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "66af5d74-f2e0-4c03-9295-6f44f85ad005",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "bdb1f5e2-c1fc-4346-8b0a-13b73b5582d8",
-    "planned_order_id": "048f17b3-ae84-4e73-98b9-3f685023c37e"
+    "planned_order_id": "048f17b3-ae84-4e73-98b9-3f685023c37e",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 95,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "b72466d9-5a00-4916-8d2b-869670aa771f",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "bd6c1bfc-e9b9-47fd-8005-4210cf8430b5",
-    "planned_order_id": "0662a326-e2ef-41f3-9d1d-daa980aeeec7"
+    "planned_order_id": "0662a326-e2ef-41f3-9d1d-daa980aeeec7",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 99,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "e9066b5a-7197-47f4-a542-7fb8eabb508f",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "9d2a9fae-f50c-45f4-8f85-d6f413e57782",
-    "planned_order_id": "0662a326-e2ef-41f3-9d1d-daa980aeeec7"
+    "planned_order_id": "0662a326-e2ef-41f3-9d1d-daa980aeeec7",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "0936b47c-8dad-4494-b8bc-bbe6c88f5d38",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "bada68e5-17f4-459f-ae3f-3bd57a7bf9ff",
-    "planned_order_id": "06a770d2-d60b-4ecc-bc96-8bddd13abbed"
+    "planned_order_id": "06a770d2-d60b-4ecc-bc96-8bddd13abbed",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "3bdf9ce9-0a9e-4a77-b430-9c8a2f6c6848",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "4a75ab62-5a7c-4632-9784-579c658e7488",
-    "planned_order_id": "06a770d2-d60b-4ecc-bc96-8bddd13abbed"
+    "planned_order_id": "06a770d2-d60b-4ecc-bc96-8bddd13abbed",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "6085481f-52c3-4fc9-aec8-27f4524def23",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "5e6a2fe0-f7b3-4571-bad6-566a04648817",
-    "planned_order_id": "06a770d2-d60b-4ecc-bc96-8bddd13abbed"
+    "planned_order_id": "06a770d2-d60b-4ecc-bc96-8bddd13abbed",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "a471cb89-ea37-47ac-8a65-9febf15ce7dc",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "4f42e34b-c874-4b5f-bd9f-6659d2312d71",
-    "planned_order_id": "06a770d2-d60b-4ecc-bc96-8bddd13abbed"
+    "planned_order_id": "06a770d2-d60b-4ecc-bc96-8bddd13abbed",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 90,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "e176fd17-80d1-4286-92e7-6f312db03860",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "bb22f93c-25fc-4d08-935a-172b6aa96658",
-    "planned_order_id": "06ae7939-81c9-48ea-b9b7-337be0bc0fb6"
+    "planned_order_id": "06ae7939-81c9-48ea-b9b7-337be0bc0fb6",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 107,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "e55c1245-1321-4d47-af43-c4673fcb5886",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "792c8f39-7073-4596-86fe-e3da446c48fb",
-    "planned_order_id": "06ae7939-81c9-48ea-b9b7-337be0bc0fb6"
+    "planned_order_id": "06ae7939-81c9-48ea-b9b7-337be0bc0fb6",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 56,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "6246199a-51d0-4567-932a-9003c5477345",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "e68700ff-f166-44de-8202-99d16e88500f",
-    "planned_order_id": "0b5202aa-cdbe-41c4-a9fd-88d43be54799"
+    "planned_order_id": "0b5202aa-cdbe-41c4-a9fd-88d43be54799",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 55,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "63101688-0b4d-452b-9f9b-706bf65176cd",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "55b7e0d7-59be-4aa9-afbd-3df28558ef58",
-    "planned_order_id": "0b5202aa-cdbe-41c4-a9fd-88d43be54799"
+    "planned_order_id": "0b5202aa-cdbe-41c4-a9fd-88d43be54799",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 4,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "65db07e7-d7e7-4e9f-b708-342ea90ea4c6",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "e697f3b3-6ad6-4d85-b252-e4e9e7f89d2e",
-    "planned_order_id": "0b5202aa-cdbe-41c4-a9fd-88d43be54799"
+    "planned_order_id": "0b5202aa-cdbe-41c4-a9fd-88d43be54799",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 46,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "6bba387e-9344-4b42-901d-01248b6e241c",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "8871cb3d-b0ec-453d-81e5-5452ff7a2f0c",
-    "planned_order_id": "0b5202aa-cdbe-41c4-a9fd-88d43be54799"
+    "planned_order_id": "0b5202aa-cdbe-41c4-a9fd-88d43be54799",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 115,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "b106f341-39a7-45ec-b3b1-f85e5fdd66c0",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "cc866131-2e65-4804-9a84-f22dee1713d1",
-    "planned_order_id": "0b5202aa-cdbe-41c4-a9fd-88d43be54799"
+    "planned_order_id": "0b5202aa-cdbe-41c4-a9fd-88d43be54799",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 74,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "4aa284ef-2c9b-4611-b0b1-b7132d374e5e",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "ae19f45a-16fe-4187-a27a-d39342315aa6",
-    "planned_order_id": "10805244-4492-4fe1-8b45-7fb947b6de69"
+    "planned_order_id": "10805244-4492-4fe1-8b45-7fb947b6de69",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 91,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "51adfe52-6201-4be5-8445-beb832f928f0",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "89757f8e-021d-4542-a73e-1c5e5a563650",
-    "planned_order_id": "112f2d37-fc21-42e2-96e6-4bb621170118"
+    "planned_order_id": "112f2d37-fc21-42e2-96e6-4bb621170118",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "d1cb83f6-1e09-4718-8a7f-6d0d40731913",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "9685cbe7-8e5d-48f9-a0c6-78e6d30a9ba6",
-    "planned_order_id": "112f2d37-fc21-42e2-96e6-4bb621170118"
+    "planned_order_id": "112f2d37-fc21-42e2-96e6-4bb621170118",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 27,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "bf98e83c-f344-4f10-9033-64e0d3c55392",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "664a64b0-98d1-4886-941c-f07fef63a2d0",
-    "planned_order_id": "11cc4776-8957-494f-b38a-77af1820374c"
+    "planned_order_id": "11cc4776-8957-494f-b38a-77af1820374c",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 83,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "fa3f2981-1d36-45d6-b7bd-cb4ea87335b9",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "0f5bb441-f7b4-4f96-86a8-7eb118eef13e",
-    "planned_order_id": "11cc4776-8957-494f-b38a-77af1820374c"
+    "planned_order_id": "11cc4776-8957-494f-b38a-77af1820374c",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 89,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "450f910e-6455-4a16-aaad-9ce6e0c9e24a",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "edefeba2-e86a-4ac0-88b1-805b4f4823e7",
-    "planned_order_id": "12f39314-357c-41ad-b8f2-c8a90764193c"
+    "planned_order_id": "12f39314-357c-41ad-b8f2-c8a90764193c",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "24ad17c3-9397-4120-a9b6-becf2ac3c98e",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "921d8b8a-57d3-4b10-9160-fd640da2fb24",
-    "planned_order_id": "169475fe-a4c6-4760-8af1-6d27c86d2de1"
+    "planned_order_id": "169475fe-a4c6-4760-8af1-6d27c86d2de1",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 82,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "f3e8e789-15be-4ab9-acf6-c4e26ee5b049",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "ff1af062-834d-4848-aaab-ccfe4c37238a",
-    "planned_order_id": "169475fe-a4c6-4760-8af1-6d27c86d2de1"
+    "planned_order_id": "169475fe-a4c6-4760-8af1-6d27c86d2de1",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 22,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "921052e6-e1ea-40f0-970f-a94162299c7f",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "5f287a97-bd9d-41dd-83e2-cf4a70a00035",
-    "planned_order_id": "1b12ccc6-d26b-4626-8ea7-57a171f9a0a9"
+    "planned_order_id": "1b12ccc6-d26b-4626-8ea7-57a171f9a0a9",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 374,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "f272a4ed-a733-47a9-94d2-700d87ef8d65",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "2fb55069-0af8-4c9c-8c78-22504c5dccfc",
-    "planned_order_id": "1b12ccc6-d26b-4626-8ea7-57a171f9a0a9"
+    "planned_order_id": "1b12ccc6-d26b-4626-8ea7-57a171f9a0a9",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 109,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "ff0b9acf-6094-4d56-adbd-2237b58eeea1",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "398809f8-e07a-4e00-9d7c-a031f5670a29",
-    "planned_order_id": "1b12ccc6-d26b-4626-8ea7-57a171f9a0a9"
+    "planned_order_id": "1b12ccc6-d26b-4626-8ea7-57a171f9a0a9",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 99,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "301e7912-5f52-49ab-8bef-70dea6ec9717",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "12941cbb-0b94-484e-aae0-9c79f81a0936",
-    "planned_order_id": "1d46b66c-d679-4084-aa97-2a033cd6cf6f"
+    "planned_order_id": "1d46b66c-d679-4084-aa97-2a033cd6cf6f",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 115,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "75a206ca-607c-4ca4-bf75-1c789f6edad1",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "97c3133f-fb80-400a-ae49-8c9f2fcecc67",
-    "planned_order_id": "1d46b66c-d679-4084-aa97-2a033cd6cf6f"
+    "planned_order_id": "1d46b66c-d679-4084-aa97-2a033cd6cf6f",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 108,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "bb9caf5d-ad2a-40c5-8bb4-3577578c903a",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "14cc8cbd-4530-45ce-b471-fab372610e85",
-    "planned_order_id": "1d46b66c-d679-4084-aa97-2a033cd6cf6f"
+    "planned_order_id": "1d46b66c-d679-4084-aa97-2a033cd6cf6f",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 158,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "d2965f76-7a33-4444-ad31-8772db4577a0",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "9cd54a33-e2e7-4ed9-87ea-235a064fdb5c",
-    "planned_order_id": "1d46b66c-d679-4084-aa97-2a033cd6cf6f"
+    "planned_order_id": "1d46b66c-d679-4084-aa97-2a033cd6cf6f",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 51,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "2d823788-5848-4fba-86a1-d697173d5549",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "3b2f2113-1a55-4a05-abc4-37722b1adbe8",
-    "planned_order_id": "235c0145-4ef4-4ea5-9738-5088ca51d0ad"
+    "planned_order_id": "235c0145-4ef4-4ea5-9738-5088ca51d0ad",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 90,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "74c86951-67bf-4791-8b78-6eb2d2906d9e",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "f379d8bd-54e4-4149-b541-1f8515aad615",
-    "planned_order_id": "235c0145-4ef4-4ea5-9738-5088ca51d0ad"
+    "planned_order_id": "235c0145-4ef4-4ea5-9738-5088ca51d0ad",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 200,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "b7bafae7-924b-4f2a-a8bb-4f86a4435339",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "8a06cd8f-8f3c-495a-b723-2b9e91b710d6",
-    "planned_order_id": "235c0145-4ef4-4ea5-9738-5088ca51d0ad"
+    "planned_order_id": "235c0145-4ef4-4ea5-9738-5088ca51d0ad",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 101,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "ccbf232f-15e9-4282-a5a6-340cf5f118ba",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "de8c4c72-a4db-4e58-8bc8-15e1b41e1892",
-    "planned_order_id": "25f3ab5e-7d64-43aa-97fc-41b81ee3e659"
+    "planned_order_id": "25f3ab5e-7d64-43aa-97fc-41b81ee3e659",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 21,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "70e5dc31-dfab-4e3e-a630-1d1d7d2c7fb8",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "13f62e57-a16d-4509-8365-f1af4aabc748",
-    "planned_order_id": "27946c0f-67a1-4690-9f99-736f1d03f9b7"
+    "planned_order_id": "27946c0f-67a1-4690-9f99-736f1d03f9b7",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 79,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "a464af22-6beb-49e1-b7df-1b033e298173",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "131a58d3-ec1d-4391-87ea-64752f2347ec",
-    "planned_order_id": "27946c0f-67a1-4690-9f99-736f1d03f9b7"
+    "planned_order_id": "27946c0f-67a1-4690-9f99-736f1d03f9b7",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 228,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "474afeef-f1a0-4b33-8dfc-2e17e6c4ef24",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "9804451b-d669-4c69-b9f5-675baac2a1f9",
-    "planned_order_id": "2c4ec321-f5f4-408f-bd4f-c0fce0df8577"
+    "planned_order_id": "2c4ec321-f5f4-408f-bd4f-c0fce0df8577",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 236,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "5b49cbb3-d976-4487-a83c-246448d2b78e",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "3d7ce302-fcac-4dd5-9b6e-b0dfec874286",
-    "planned_order_id": "2c4ec321-f5f4-408f-bd4f-c0fce0df8577"
+    "planned_order_id": "2c4ec321-f5f4-408f-bd4f-c0fce0df8577",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 22,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "df1722c3-f64c-49fa-a23e-6355d366f5bd",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "50f7e393-a8a6-4acd-8651-16699d88d8e3",
-    "planned_order_id": "2c4ec321-f5f4-408f-bd4f-c0fce0df8577"
+    "planned_order_id": "2c4ec321-f5f4-408f-bd4f-c0fce0df8577",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 18,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "59112bf8-ba96-4939-bfa7-dc275e77fafa",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "d09b18b3-1fe3-4fd1-857d-d38686bb173c",
-    "planned_order_id": "2f36352f-a30d-4aee-883d-13cac0b1483c"
+    "planned_order_id": "2f36352f-a30d-4aee-883d-13cac0b1483c",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "6a3ce2a9-2474-436a-b5db-35f10fc4a5df",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "b64448c1-dd3f-47cf-8860-ee604761f761",
-    "planned_order_id": "2f36352f-a30d-4aee-883d-13cac0b1483c"
+    "planned_order_id": "2f36352f-a30d-4aee-883d-13cac0b1483c",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 32,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "e3fb6a18-6783-4118-8dff-6af46180d310",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "80c59d6d-5e2f-4e6c-80f1-99ec222798e6",
-    "planned_order_id": "2f36352f-a30d-4aee-883d-13cac0b1483c"
+    "planned_order_id": "2f36352f-a30d-4aee-883d-13cac0b1483c",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "47e21dd3-43d4-4884-aa06-6f869f2d0e01",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "072a15a4-d5a4-4a75-ab75-36279981286c",
-    "planned_order_id": "30c05d0f-80da-4128-ae6d-059f0305eaea"
+    "planned_order_id": "30c05d0f-80da-4128-ae6d-059f0305eaea",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 51,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "a1e3cad5-3658-4e0b-804a-5263bd79738d",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "3388f879-d484-4b3a-9d7b-a52b5ab6eb1e",
-    "planned_order_id": "30c05d0f-80da-4128-ae6d-059f0305eaea"
+    "planned_order_id": "30c05d0f-80da-4128-ae6d-059f0305eaea",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "3c1c6edd-6543-4d8b-86bf-fc7ef378b836",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "cab20c5b-73c0-4d84-9569-a6133685fa1b",
-    "planned_order_id": "32d46c64-2a84-4b38-9fed-9fddecdad5a1"
+    "planned_order_id": "32d46c64-2a84-4b38-9fed-9fddecdad5a1",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 111,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "487807ae-4cbe-4324-800c-3d46cebaa5f9",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "72e8c0bb-9dde-4f50-a226-89a5a31f415a",
-    "planned_order_id": "32d46c64-2a84-4b38-9fed-9fddecdad5a1"
+    "planned_order_id": "32d46c64-2a84-4b38-9fed-9fddecdad5a1",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "a5178bc6-8032-4578-b269-ebbf4f97f5ab",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "d8c62b36-4569-414d-bfb9-9c1c406baaa1",
-    "planned_order_id": "32d46c64-2a84-4b38-9fed-9fddecdad5a1"
+    "planned_order_id": "32d46c64-2a84-4b38-9fed-9fddecdad5a1",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 31,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "ceed5b98-688c-4350-a891-1dca6ba48469",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "64aad8ca-2243-4165-af26-6a1a917500a5",
-    "planned_order_id": "32d46c64-2a84-4b38-9fed-9fddecdad5a1"
+    "planned_order_id": "32d46c64-2a84-4b38-9fed-9fddecdad5a1",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "fff18f90-d2b8-4610-a85a-d11d1f563be6",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "a531610a-694d-454d-8016-341eb5a778e2",
-    "planned_order_id": "32d46c64-2a84-4b38-9fed-9fddecdad5a1"
+    "planned_order_id": "32d46c64-2a84-4b38-9fed-9fddecdad5a1",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 282,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "5f525657-8f30-42c3-ab7e-ab02c1066819",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "0b7b0e51-d1b5-48c4-9705-e25858226f8c",
-    "planned_order_id": "3382db53-25c4-4253-b402-e7e88a75ba91"
+    "planned_order_id": "3382db53-25c4-4253-b402-e7e88a75ba91",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 100,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "b46fed8e-3378-437b-a546-e000fdbb0065",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "3b7c9eb0-fb6f-43d5-8288-fe02ca36bf58",
-    "planned_order_id": "3382db53-25c4-4253-b402-e7e88a75ba91"
+    "planned_order_id": "3382db53-25c4-4253-b402-e7e88a75ba91",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 90,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "75f32ea0-b5e9-4266-9ab6-498511554052",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "55bd59d6-cf8c-4838-9867-0c0ea5d1a793",
-    "planned_order_id": "35279edb-3325-4601-98b6-e2557950c7b7"
+    "planned_order_id": "35279edb-3325-4601-98b6-e2557950c7b7",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 58,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "7afbd898-aba7-4974-9492-bece2e5fb07d",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "75249fd5-5a50-4058-9b1b-c3c2169f79af",
-    "planned_order_id": "3a3cab93-8342-4702-92f5-870e2c61a65f"
+    "planned_order_id": "3a3cab93-8342-4702-92f5-870e2c61a65f",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 71,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "47460b41-3f19-4f58-8188-a09952f9ffab",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "780abbc7-42a8-4249-b80e-16b326bee553",
-    "planned_order_id": "3dad85cc-5fdc-4a4d-baec-f26976e3f71f"
+    "planned_order_id": "3dad85cc-5fdc-4a4d-baec-f26976e3f71f",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 286,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "5e759474-2f16-4159-9ebe-91f3c084f2df",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "643ff0be-abe6-4ba4-8b57-f46b352cb976",
-    "planned_order_id": "3dad85cc-5fdc-4a4d-baec-f26976e3f71f"
+    "planned_order_id": "3dad85cc-5fdc-4a4d-baec-f26976e3f71f",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 178,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "23c58ec6-f2d2-43db-81dd-cadab25462a9",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "6df0ba54-9667-4c5c-8cdc-fdc300ac5086",
-    "planned_order_id": "3deabfb0-0dd0-4213-9fb9-d8a72e3e2e54"
+    "planned_order_id": "3deabfb0-0dd0-4213-9fb9-d8a72e3e2e54",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 700,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "5a595f8c-62d2-48f6-902c-f79ac0ba9aef",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "9ff62315-84c9-436b-9a2e-2a5c3da7d92e",
-    "planned_order_id": "44a4b52a-c86e-4b2f-bd26-b0adb73fecd0"
+    "planned_order_id": "44a4b52a-c86e-4b2f-bd26-b0adb73fecd0",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 60,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "fe73db9e-89be-4b81-bc8e-b6d829403d4b",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "531202ab-54ac-40f5-a90e-54f88f295945",
-    "planned_order_id": "44a4b52a-c86e-4b2f-bd26-b0adb73fecd0"
+    "planned_order_id": "44a4b52a-c86e-4b2f-bd26-b0adb73fecd0",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 179,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "7092cbad-c47c-42f1-9777-b978fddbac23",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "34405fb5-ce7b-42e0-b7bd-d58640a2d4d4",
-    "planned_order_id": "46ba5892-bf9c-43a8-9050-4fe2172986bb"
+    "planned_order_id": "46ba5892-bf9c-43a8-9050-4fe2172986bb",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 160,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "6f154b91-4039-4e91-b293-7f0a05732862",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "deaf96a6-2348-40ea-a0e0-ffb58e81d914",
-    "planned_order_id": "4b31ab1b-1c73-4bea-9711-9eb699a85272"
+    "planned_order_id": "4b31ab1b-1c73-4bea-9711-9eb699a85272",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 54,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "8bed7b3e-f3cd-4244-9b09-8eed7c68d0e7",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "5eb962d1-42f7-44ec-9cde-d9692add6849",
-    "planned_order_id": "4b31ab1b-1c73-4bea-9711-9eb699a85272"
+    "planned_order_id": "4b31ab1b-1c73-4bea-9711-9eb699a85272",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 92,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "d5e07f48-4324-4c6f-b6c9-2bc70b9b2e93",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "e84ab813-5d40-4232-ba3d-0c92e5400baa",
-    "planned_order_id": "4b31ab1b-1c73-4bea-9711-9eb699a85272"
+    "planned_order_id": "4b31ab1b-1c73-4bea-9711-9eb699a85272",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 241,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "66af5d74-f2e0-4c03-9295-6f44f85ad005",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "8e1deb13-1192-47f7-8ede-a09bd068e47f",
-    "planned_order_id": "4dddc0f7-cfb4-446c-b7ab-f985f6a5d728"
+    "planned_order_id": "4dddc0f7-cfb4-446c-b7ab-f985f6a5d728",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "3e0d3384-9d5d-4b5d-bfc1-fd49b67d06ca",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "fb9120ea-cfb8-44af-82d3-a49589d6e022",
-    "planned_order_id": "52dc89eb-7181-42a0-810b-40b2b0e590a3"
+    "planned_order_id": "52dc89eb-7181-42a0-810b-40b2b0e590a3",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "4a6ca527-eb94-4fd1-8599-223b21558ff6",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "85de954c-7a25-4a6d-939b-8bf7f480fbcf",
-    "planned_order_id": "52dc89eb-7181-42a0-810b-40b2b0e590a3"
+    "planned_order_id": "52dc89eb-7181-42a0-810b-40b2b0e590a3",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 288,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "b05b140b-2b41-4889-b375-18a6624bcaac",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "3e918105-ffc6-4d6e-a41b-6d36a4572422",
-    "planned_order_id": "5bfd70d5-85e9-4266-a2ac-49246c3c0308"
+    "planned_order_id": "5bfd70d5-85e9-4266-a2ac-49246c3c0308",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 5,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "03f39918-ef39-48eb-aef6-dbca3b859f77",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "e9557649-33ea-47cb-a4e9-cf2637092125",
-    "planned_order_id": "5f786c9d-b5b2-439b-90fa-5ffaecd5c963"
+    "planned_order_id": "5f786c9d-b5b2-439b-90fa-5ffaecd5c963",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 94,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "822bd2b8-0a35-4309-9d48-2cae8d156033",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "9b3d9745-59ff-4713-9033-6d5f9b447f2a",
-    "planned_order_id": "5f786c9d-b5b2-439b-90fa-5ffaecd5c963"
+    "planned_order_id": "5f786c9d-b5b2-439b-90fa-5ffaecd5c963",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "b2653bc7-e993-492f-94ea-8d6b85e3daec",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "96241e98-58ea-459f-a963-b5352ecdfc04",
-    "planned_order_id": "5f786c9d-b5b2-439b-90fa-5ffaecd5c963"
+    "planned_order_id": "5f786c9d-b5b2-439b-90fa-5ffaecd5c963",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "4c486054-c76e-46b0-b269-975f281c5851",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "82e2f0f0-f7fa-4baf-9625-e4081bada4b7",
-    "planned_order_id": "6231f514-d48b-462c-bc5f-f21e3e1c0b69"
+    "planned_order_id": "6231f514-d48b-462c-bc5f-f21e3e1c0b69",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 86,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "55ca0967-1bd8-42b5-9a55-047bac9a9441",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "f51921da-1d50-4e78-b1bf-34604fbdb09f",
-    "planned_order_id": "6231f514-d48b-462c-bc5f-f21e3e1c0b69"
+    "planned_order_id": "6231f514-d48b-462c-bc5f-f21e3e1c0b69",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "b66381a8-4a13-45a2-8a48-6fa594ad8e5a",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "060b2537-c148-4523-b77d-da6d464f4b0c",
-    "planned_order_id": "6231f514-d48b-462c-bc5f-f21e3e1c0b69"
+    "planned_order_id": "6231f514-d48b-462c-bc5f-f21e3e1c0b69",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 22,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "cdcb6dc4-a52e-4b19-bcac-37d9fe27cd56",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "25119a17-ceee-4604-bbc1-bc0d39590dea",
-    "planned_order_id": "6231f514-d48b-462c-bc5f-f21e3e1c0b69"
+    "planned_order_id": "6231f514-d48b-462c-bc5f-f21e3e1c0b69",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 22,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "deb6f3d1-a367-44c8-b9e2-64cbfd8d5b92",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "94ffe7b3-1ee5-4975-b8a0-954560d91c3f",
-    "planned_order_id": "6231f514-d48b-462c-bc5f-f21e3e1c0b69"
+    "planned_order_id": "6231f514-d48b-462c-bc5f-f21e3e1c0b69",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 73,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "ec7ecc4a-705c-493e-bff7-02c2de9335c8",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "f47c7409-7c1c-4d19-afe5-00658fb6f5c4",
-    "planned_order_id": "6231f514-d48b-462c-bc5f-f21e3e1c0b69"
+    "planned_order_id": "6231f514-d48b-462c-bc5f-f21e3e1c0b69",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 31,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "2ab3e032-a372-41ae-b87b-241032502676",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "20084c7a-361f-42ae-9b9b-1bda8bd23a32",
-    "planned_order_id": "6466fdb5-7f11-484e-a45c-e05856ed2d29"
+    "planned_order_id": "6466fdb5-7f11-484e-a45c-e05856ed2d29",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 19,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "bd838934-8425-42d9-8eb0-39aca75f0c9e",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "b6a1afdd-cc3b-45e3-be6d-a087f6b9d046",
-    "planned_order_id": "6466fdb5-7f11-484e-a45c-e05856ed2d29"
+    "planned_order_id": "6466fdb5-7f11-484e-a45c-e05856ed2d29",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 83,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "eef7689c-8ce6-4db2-b6e6-6933b314088d",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "f9efbced-1a37-42bf-950e-b1dc62ff91de",
-    "planned_order_id": "6466fdb5-7f11-484e-a45c-e05856ed2d29"
+    "planned_order_id": "6466fdb5-7f11-484e-a45c-e05856ed2d29",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 82,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "bfa003e1-32af-45ff-b777-ae70742eaa3b",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "ba227aff-879b-47f6-8368-af453dd7a011",
-    "planned_order_id": "6dff955d-97a3-4474-ae1f-d1101888e3a7"
+    "planned_order_id": "6dff955d-97a3-4474-ae1f-d1101888e3a7",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 106,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "59febbf1-1192-4bb3-8614-e7af02c7adae",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "46b8ec86-8e26-4ff9-bace-0f44601a8e64",
-    "planned_order_id": "6e15b7d8-766c-4904-8191-57e6d1984cfb"
+    "planned_order_id": "6e15b7d8-766c-4904-8191-57e6d1984cfb",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 89,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "3411289f-d746-4fae-8509-dccfe3d5ba31",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "23b54fe5-138b-4fa6-9539-2ea3001f3092",
-    "planned_order_id": "6e257fe3-7914-48af-9bb2-c1ebe964e529"
+    "planned_order_id": "6e257fe3-7914-48af-9bb2-c1ebe964e529",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 36,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "37e76626-a82b-4185-b3b8-bde8fa8aff6e",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "7c30448a-e09c-4007-89c2-ab7ec6668957",
-    "planned_order_id": "737b1262-7476-4a04-bbc1-892d28afccdb"
+    "planned_order_id": "737b1262-7476-4a04-bbc1-892d28afccdb",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 100,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "5989b492-59f2-412e-a62b-d1e2f9f2bf36",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "b8118775-d236-4466-9c93-539b1da2fec5",
-    "planned_order_id": "737b1262-7476-4a04-bbc1-892d28afccdb"
+    "planned_order_id": "737b1262-7476-4a04-bbc1-892d28afccdb",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 100,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "55becec8-70a0-477a-8abd-cc2689c60335",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "715a9eaf-45b8-484f-b4f7-306ac4f0165c",
-    "planned_order_id": "738f8fec-d49c-4945-862a-f703a585f2c0"
+    "planned_order_id": "738f8fec-d49c-4945-862a-f703a585f2c0",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 198,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "7af54516-3a43-42a8-b50c-b1de752493ff",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "bd5e827b-8175-4b86-b9f3-effd12ee0806",
-    "planned_order_id": "738f8fec-d49c-4945-862a-f703a585f2c0"
+    "planned_order_id": "738f8fec-d49c-4945-862a-f703a585f2c0",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 84,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "c5c15d3a-c7fd-491c-8b3a-c47ad1352d31",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "7e4928f5-3867-4467-8ae3-fc506ac5cb02",
-    "planned_order_id": "7751831a-7b3c-4f46-8f43-2e31566907d4"
+    "planned_order_id": "7751831a-7b3c-4f46-8f43-2e31566907d4",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 94,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "a5d1f792-635d-4704-9f14-a7a37ac3d1dd",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "193f32b4-65cb-4a95-bb30-d6d2ad5f586e",
-    "planned_order_id": "77ad7aeb-6695-4e22-9b67-de6d0800a20b"
+    "planned_order_id": "77ad7aeb-6695-4e22-9b67-de6d0800a20b",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 108,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "d3eda1e8-97e3-4978-a315-7487598216a4",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "c90e38aa-6c3a-45a7-a9d6-d3cd2ebb4bee",
-    "planned_order_id": "77ad7aeb-6695-4e22-9b67-de6d0800a20b"
+    "planned_order_id": "77ad7aeb-6695-4e22-9b67-de6d0800a20b",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 83,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "ee24859b-958a-420f-825d-de6815be1821",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "e5487d56-9141-48a9-a635-804ccfaeb2e4",
-    "planned_order_id": "77ad7aeb-6695-4e22-9b67-de6d0800a20b"
+    "planned_order_id": "77ad7aeb-6695-4e22-9b67-de6d0800a20b",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 93,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "2edfe257-1198-4c9a-bdc2-63679dac4148",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "e793e070-9f16-46ae-9cb5-37fda29352ed",
-    "planned_order_id": "785f6760-27df-445d-9bfc-a04050f39ac0"
+    "planned_order_id": "785f6760-27df-445d-9bfc-a04050f39ac0",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 7,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "7c0f009e-f029-4c07-8758-2fae7b768963",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "15ddd7bd-4fe8-4418-90b8-3f42c83867c9",
-    "planned_order_id": "785f6760-27df-445d-9bfc-a04050f39ac0"
+    "planned_order_id": "785f6760-27df-445d-9bfc-a04050f39ac0",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 73,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "7e37f1e4-5198-4b17-b33e-78c77fd4cb06",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "fd0aa959-6868-4a7e-a27e-7e7a6a77c48f",
-    "planned_order_id": "785f6760-27df-445d-9bfc-a04050f39ac0"
+    "planned_order_id": "785f6760-27df-445d-9bfc-a04050f39ac0",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 76,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "8d054afd-16ff-43f1-885a-0529870bb6eb",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "ea8af781-16ed-42d6-85d4-5d533dc930e1",
-    "planned_order_id": "785f6760-27df-445d-9bfc-a04050f39ac0"
+    "planned_order_id": "785f6760-27df-445d-9bfc-a04050f39ac0",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 33,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "baccbba4-b3e5-4f4e-972c-b1ac07dc0a15",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "75ba6f4e-a577-4c3d-b2d2-94f302e9b17d",
-    "planned_order_id": "785f6760-27df-445d-9bfc-a04050f39ac0"
+    "planned_order_id": "785f6760-27df-445d-9bfc-a04050f39ac0",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 68,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "e1f4d85b-d079-4e0e-95a9-de88c0f803a8",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "cf6efdfe-6f76-48c0-8d55-4f36a03ddaca",
-    "planned_order_id": "7a55f748-5415-42b5-af62-8aadc01aa752"
+    "planned_order_id": "7a55f748-5415-42b5-af62-8aadc01aa752",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 157,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "f0bd98e6-1f58-46c5-891a-51e7e385a016",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "ae7e21fb-5dca-4183-aad5-0c1179d0aa8f",
-    "planned_order_id": "7a55f748-5415-42b5-af62-8aadc01aa752"
+    "planned_order_id": "7a55f748-5415-42b5-af62-8aadc01aa752",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 205,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "0e257cce-c0b6-47fb-9e2c-922aa32520fe",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "74e8d3d8-b342-449e-9926-4af0aade6de1",
-    "planned_order_id": "7ad0e008-1951-44ee-93cf-9201c69adccf"
+    "planned_order_id": "7ad0e008-1951-44ee-93cf-9201c69adccf",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 241,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "333e9c4d-d81b-4de4-92e3-d3eb32de0cd7",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "e0ab4f8c-48a0-4cd8-9884-d9a86317cb22",
-    "planned_order_id": "7b074463-5cde-4420-a715-ed9895104103"
+    "planned_order_id": "7b074463-5cde-4420-a715-ed9895104103",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 24,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "00c307e3-ff5d-4c53-964e-67cfd12f7b76",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "c8cf5a51-2292-42a6-b34b-aae0f2433d4c",
-    "planned_order_id": "7caed57a-3c2e-46b4-8c75-932c7366aff5"
+    "planned_order_id": "7caed57a-3c2e-46b4-8c75-932c7366aff5",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 138,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "4ffacf94-b730-400b-8365-a45865655f60",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "114181f5-cc89-44ed-9201-bbe5aadc84db",
-    "planned_order_id": "7caed57a-3c2e-46b4-8c75-932c7366aff5"
+    "planned_order_id": "7caed57a-3c2e-46b4-8c75-932c7366aff5",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 93,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "5c92c60a-d98f-45fb-a870-8fe3ea82cd9b",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "0bd25084-3f7b-4494-9955-7254baf6ddc4",
-    "planned_order_id": "7caed57a-3c2e-46b4-8c75-932c7366aff5"
+    "planned_order_id": "7caed57a-3c2e-46b4-8c75-932c7366aff5",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 125,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "e6727dea-bd5d-40d7-b1aa-a236dba3a3ec",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "af02929f-3315-4763-8167-4229d6c07ec9",
-    "planned_order_id": "7caed57a-3c2e-46b4-8c75-932c7366aff5"
+    "planned_order_id": "7caed57a-3c2e-46b4-8c75-932c7366aff5",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 48,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "17179951-f47b-47f7-8d8c-57614e4d5ba8",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "55ea2b02-23ae-4659-8c8a-447e1fed35c1",
-    "planned_order_id": "7fe8c09e-42e2-4e04-a4e1-58a00aca23a1"
+    "planned_order_id": "7fe8c09e-42e2-4e04-a4e1-58a00aca23a1",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 149,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "1fed7424-09e1-4377-9dcd-065fba740796",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "a77cc7e0-de2d-4123-af48-152119aecce4",
-    "planned_order_id": "7fe8c09e-42e2-4e04-a4e1-58a00aca23a1"
+    "planned_order_id": "7fe8c09e-42e2-4e04-a4e1-58a00aca23a1",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 292,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "51caead7-9207-4919-b42d-6439c91e60c1",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "9ab206f0-431f-4fd4-9a49-f7d644afcdd8",
-    "planned_order_id": "7fe8c09e-42e2-4e04-a4e1-58a00aca23a1"
+    "planned_order_id": "7fe8c09e-42e2-4e04-a4e1-58a00aca23a1",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 216,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "819f7d3f-6f72-4121-a43c-eb174a91664f",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "7297a852-3080-4a22-b3d0-6d9c737c756b",
-    "planned_order_id": "7fe8c09e-42e2-4e04-a4e1-58a00aca23a1"
+    "planned_order_id": "7fe8c09e-42e2-4e04-a4e1-58a00aca23a1",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 62,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "95208ecd-e0da-49fa-a972-2f0c64d7e0d8",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "dcbbc541-b4b5-4156-91b5-0b208dbacef5",
-    "planned_order_id": "7fe8c09e-42e2-4e04-a4e1-58a00aca23a1"
+    "planned_order_id": "7fe8c09e-42e2-4e04-a4e1-58a00aca23a1",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "5b49517e-2588-4c8c-8865-8da3ca91fa9c",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "07b30942-b7af-455c-82a4-7cb469e51734",
-    "planned_order_id": "80412d76-f282-4c05-8c4c-af65528569e3"
+    "planned_order_id": "80412d76-f282-4c05-8c4c-af65528569e3",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 170,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "085e2e7d-0b83-4ab3-bdf1-29a566f2d251",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "4321ef0e-b9dd-4d19-a4bf-2aedd7db835d",
-    "planned_order_id": "889243b3-bc12-4b60-8b98-694ebec2e5ca"
+    "planned_order_id": "889243b3-bc12-4b60-8b98-694ebec2e5ca",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 189,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "0ef255f2-9abe-42a7-bd3d-3025ae0ec46f",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "54289cb6-1b18-44f2-a392-14bf7a0b6f88",
-    "planned_order_id": "889243b3-bc12-4b60-8b98-694ebec2e5ca"
+    "planned_order_id": "889243b3-bc12-4b60-8b98-694ebec2e5ca",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 199,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "645915fc-091d-44ca-aada-eec2a7b05340",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "5f31fe92-01a0-4a4a-abdd-c2ba37c74bc5",
-    "planned_order_id": "889243b3-bc12-4b60-8b98-694ebec2e5ca"
+    "planned_order_id": "889243b3-bc12-4b60-8b98-694ebec2e5ca",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 62,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "156f1517-75f6-420e-b6cb-6ac1343cb203",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "ef8aa147-f929-45b4-906a-717b3065aa24",
-    "planned_order_id": "892b7417-d24e-4952-807e-c76f1345f52e"
+    "planned_order_id": "892b7417-d24e-4952-807e-c76f1345f52e",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 84,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "35958b11-8054-4f93-adbb-6840b74f7467",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "5fcbf455-35e5-4e28-b31d-87ce0972ec7e",
-    "planned_order_id": "892b7417-d24e-4952-807e-c76f1345f52e"
+    "planned_order_id": "892b7417-d24e-4952-807e-c76f1345f52e",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 400,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "43810b74-06ce-4a06-b9b6-6817633cd9e6",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "66ae4332-410c-4e4d-a867-49c0acadc22b",
-    "planned_order_id": "8a8dc3df-35da-463b-aa81-849afb19e7f7"
+    "planned_order_id": "8a8dc3df-35da-463b-aa81-849afb19e7f7",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 81,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "9de30620-5ab3-4c66-9414-20a86c245d8c",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "4a73629d-02d9-4483-ad4d-67ba595e75ab",
-    "planned_order_id": "8a8dc3df-35da-463b-aa81-849afb19e7f7"
+    "planned_order_id": "8a8dc3df-35da-463b-aa81-849afb19e7f7",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 14,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "b7099403-85ee-46f0-a24a-fc18aeeb1915",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "4353de55-c79d-4099-9d6f-a42aabec2d81",
-    "planned_order_id": "8a8dc3df-35da-463b-aa81-849afb19e7f7"
+    "planned_order_id": "8a8dc3df-35da-463b-aa81-849afb19e7f7",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 222,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "e59b7aaf-7da8-46bf-a35d-b3d2064e3827",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "1dc5fbf6-f663-43f5-9c7a-122b6372ce2f",
-    "planned_order_id": "8a8dc3df-35da-463b-aa81-849afb19e7f7"
+    "planned_order_id": "8a8dc3df-35da-463b-aa81-849afb19e7f7",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "09ff3d48-ef57-4e59-b3f2-784ffab4f9dd",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "6825f764-625c-411a-b27e-c4b13ef6cc8c",
-    "planned_order_id": "8abe0fc3-0050-49f9-8e55-a1fa5077296d"
+    "planned_order_id": "8abe0fc3-0050-49f9-8e55-a1fa5077296d",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "260e88ac-b341-4110-90e2-20f4d575f9b6",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "611db97d-3f02-464f-b2e5-8a46713e9564",
-    "planned_order_id": "8abe0fc3-0050-49f9-8e55-a1fa5077296d"
+    "planned_order_id": "8abe0fc3-0050-49f9-8e55-a1fa5077296d",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 51,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "4d20b9be-edf4-4a50-af5f-0ae0e24d6242",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "00fbfd40-15f3-4912-a276-bf6580a28dd4",
-    "planned_order_id": "8abe0fc3-0050-49f9-8e55-a1fa5077296d"
+    "planned_order_id": "8abe0fc3-0050-49f9-8e55-a1fa5077296d",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "5a09c63e-9442-443a-aa60-242f22a31567",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "65734759-1ec8-4d26-920d-05803c22f079",
-    "planned_order_id": "8abe0fc3-0050-49f9-8e55-a1fa5077296d"
+    "planned_order_id": "8abe0fc3-0050-49f9-8e55-a1fa5077296d",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 99,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "a5fac3a1-4927-4c70-8b8c-2e8f7119f144",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "fb877e1c-e83a-4b85-8959-d76cd90749fb",
-    "planned_order_id": "8abe0fc3-0050-49f9-8e55-a1fa5077296d"
+    "planned_order_id": "8abe0fc3-0050-49f9-8e55-a1fa5077296d",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 12,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "0d18148e-4dbf-49ba-be76-d9d2001a0aad",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "1371427b-f8ff-478d-af04-aa4cf5f4f18e",
-    "planned_order_id": "8b4e7d3d-7afe-4cf8-b672-b391cb2cc956"
+    "planned_order_id": "8b4e7d3d-7afe-4cf8-b672-b391cb2cc956",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 38,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "11d1212b-36df-40eb-9fe8-da3821f73429",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "5f8b1155-1f8f-4169-8ca0-77730a9b6d83",
-    "planned_order_id": "8b4e7d3d-7afe-4cf8-b672-b391cb2cc956"
+    "planned_order_id": "8b4e7d3d-7afe-4cf8-b672-b391cb2cc956",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 222,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "23c58ec6-f2d2-43db-81dd-cadab25462a9",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "d5f4ae5f-0a46-4f76-ba43-d297a5e09033",
-    "planned_order_id": "8cacaa31-db1f-464a-af61-9d4a02a99018"
+    "planned_order_id": "8cacaa31-db1f-464a-af61-9d4a02a99018",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 74,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "5daf9c46-f910-4213-9e34-963a52915ab4",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "938bd826-ca8f-480e-9fda-adeedf472eb2",
-    "planned_order_id": "905e15b4-460b-401b-94ed-e8eb0e48d0b0"
+    "planned_order_id": "905e15b4-460b-401b-94ed-e8eb0e48d0b0",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 69,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "6286dc3c-3427-4f22-adcb-3d1829a4ea7f",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "45614be4-e7ed-4720-ae9c-bf96c95e5285",
-    "planned_order_id": "905e15b4-460b-401b-94ed-e8eb0e48d0b0"
+    "planned_order_id": "905e15b4-460b-401b-94ed-e8eb0e48d0b0",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 5,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "8f2326d4-d515-45a0-aa21-d61f0354bd93",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "ee67166e-2b40-4075-ac9b-0ec065ff0470",
-    "planned_order_id": "905e15b4-460b-401b-94ed-e8eb0e48d0b0"
+    "planned_order_id": "905e15b4-460b-401b-94ed-e8eb0e48d0b0",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 26,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "98195021-e8f1-4e07-94f5-11697fad5b59",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "e1e4f6ff-ad57-48d1-9ee4-7993bc569f8c",
-    "planned_order_id": "905e15b4-460b-401b-94ed-e8eb0e48d0b0"
+    "planned_order_id": "905e15b4-460b-401b-94ed-e8eb0e48d0b0",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "9caba3b0-911c-4314-9edb-1425e66c305b",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "cf884e9f-fc0e-49e6-ac8e-9f0f9914a47d",
-    "planned_order_id": "905e15b4-460b-401b-94ed-e8eb0e48d0b0"
+    "planned_order_id": "905e15b4-460b-401b-94ed-e8eb0e48d0b0",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "dcc1f7df-7462-4fc2-888f-5d72ddb2ca47",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "130447a6-2dee-49ef-ad4d-aea0385e9100",
-    "planned_order_id": "92c5538d-507a-4ddd-9278-a64708bfdef7"
+    "planned_order_id": "92c5538d-507a-4ddd-9278-a64708bfdef7",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 100,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "fa74aba2-18b2-4941-8566-2c6c1661b622",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "68b12ac7-d9e4-4f38-9822-cc7394e1fda8",
-    "planned_order_id": "92c5538d-507a-4ddd-9278-a64708bfdef7"
+    "planned_order_id": "92c5538d-507a-4ddd-9278-a64708bfdef7",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 109,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "573acc78-70f9-45d3-ad8a-22c4a2043ca7",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "de00b418-fb0e-49c3-98bc-a00a3dbdb990",
-    "planned_order_id": "938736e0-5889-4801-8f1f-290da118be0d"
+    "planned_order_id": "938736e0-5889-4801-8f1f-290da118be0d",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 15,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "b0968e67-4132-4bcd-81af-b42056b7cbeb",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "3d415716-1c91-4842-a44e-f77ada05a8a5",
-    "planned_order_id": "938736e0-5889-4801-8f1f-290da118be0d"
+    "planned_order_id": "938736e0-5889-4801-8f1f-290da118be0d",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 100,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "4a615835-a0b3-4e66-83cd-1b7310549026",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "165ee820-9514-4cec-b8de-b3e631be182f",
-    "planned_order_id": "956aa2b1-a050-4bcb-808e-ed1df529129b"
+    "planned_order_id": "956aa2b1-a050-4bcb-808e-ed1df529129b",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 106,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "7f72c560-783c-423d-8092-d1512c746e85",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "e04c677d-57ae-45f5-9647-c8fee118163d",
-    "planned_order_id": "956aa2b1-a050-4bcb-808e-ed1df529129b"
+    "planned_order_id": "956aa2b1-a050-4bcb-808e-ed1df529129b",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 103,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "8c8a486d-5d0c-4c2d-9e97-0f3b83685f10",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "01cd7e0d-59c1-44ec-a9f6-b95ed65e8621",
-    "planned_order_id": "956aa2b1-a050-4bcb-808e-ed1df529129b"
+    "planned_order_id": "956aa2b1-a050-4bcb-808e-ed1df529129b",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 410,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "74c86951-67bf-4791-8b78-6eb2d2906d9e",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "f306d219-6dd5-41fb-867a-0a37153f0aca",
-    "planned_order_id": "960c8aef-375b-497b-8bda-22d339ac6a4e"
+    "planned_order_id": "960c8aef-375b-497b-8bda-22d339ac6a4e",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 150,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "ecda3246-69bf-4313-b9b9-1b639292addf",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "d0b87654-a63c-4b45-a2ab-850cce0215db",
-    "planned_order_id": "960c8aef-375b-497b-8bda-22d339ac6a4e"
+    "planned_order_id": "960c8aef-375b-497b-8bda-22d339ac6a4e",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 130,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "d3213a47-2194-408c-9eec-b8e38ed87df3",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "97ced12d-af38-4498-bf27-d0eda2d93c2b",
-    "planned_order_id": "97750d05-dd2f-465b-b194-97ae9b4efb3f"
+    "planned_order_id": "97750d05-dd2f-465b-b194-97ae9b4efb3f",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 397,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "f9b10b2c-2bf9-45eb-904b-a3c9960dab39",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "b8cc75ea-3502-4a49-99a1-25c2a99f4d2a",
-    "planned_order_id": "98f8e8e2-9b8b-4e25-9963-0dfb2b71f7cf"
+    "planned_order_id": "98f8e8e2-9b8b-4e25-9963-0dfb2b71f7cf",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "2dd8eb39-9d4f-4c8c-92da-d4363740a430",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "70f952e1-fba5-4bb2-8f90-dcafa775c19e",
-    "planned_order_id": "9c72bd9d-bdf0-4965-8d8b-c11ab68c4904"
+    "planned_order_id": "9c72bd9d-bdf0-4965-8d8b-c11ab68c4904",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 98,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "a38d5b41-6d73-4d2f-95e4-284522bb2662",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "6a9e6d67-a2e4-4600-8aa8-fa3b0d60dc60",
-    "planned_order_id": "9c72bd9d-bdf0-4965-8d8b-c11ab68c4904"
+    "planned_order_id": "9c72bd9d-bdf0-4965-8d8b-c11ab68c4904",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 98,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "d97dbe6a-f80a-41a3-9f15-24fb9d8e3f6e",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "f92c810b-d0cf-41be-a4c2-7f63f8eecfca",
-    "planned_order_id": "9c72bd9d-bdf0-4965-8d8b-c11ab68c4904"
+    "planned_order_id": "9c72bd9d-bdf0-4965-8d8b-c11ab68c4904",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "e3bf54da-e729-443a-b968-c6b7adfc394c",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "acce7db2-83e8-4df0-a0b1-c094120f83f7",
-    "planned_order_id": "9c72bd9d-bdf0-4965-8d8b-c11ab68c4904"
+    "planned_order_id": "9c72bd9d-bdf0-4965-8d8b-c11ab68c4904",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 196,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "2d34dffe-5793-473d-bb1c-11dcd48cad92",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "fc5ff6b9-a82e-4ffe-b4f6-6f5c950269f1",
-    "planned_order_id": "a09d5753-f5b4-4720-97c9-19295eab9469"
+    "planned_order_id": "a09d5753-f5b4-4720-97c9-19295eab9469",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 199,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "4234c9e1-025d-4d41-9513-75861f4b7ff4",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "b3423482-3713-46db-afec-68039375bb35",
-    "planned_order_id": "a09d5753-f5b4-4720-97c9-19295eab9469"
+    "planned_order_id": "a09d5753-f5b4-4720-97c9-19295eab9469",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 116,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "5c61ab5c-b375-497e-8f8a-bae209795f8a",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "4dbb1b55-6450-4ad5-a426-5905a0254bed",
-    "planned_order_id": "a09d5753-f5b4-4720-97c9-19295eab9469"
+    "planned_order_id": "a09d5753-f5b4-4720-97c9-19295eab9469",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 267,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "bc0a0771-c02f-440e-b4bb-b452ed4aa667",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "5179027f-bad2-402e-992f-4a335b7435f1",
-    "planned_order_id": "a09d5753-f5b4-4720-97c9-19295eab9469"
+    "planned_order_id": "a09d5753-f5b4-4720-97c9-19295eab9469",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 95,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "d3b88706-9ec8-467b-93c7-793b16884be5",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "528e26b6-3665-41ce-a096-6bc447613290",
-    "planned_order_id": "a09d5753-f5b4-4720-97c9-19295eab9469"
+    "planned_order_id": "a09d5753-f5b4-4720-97c9-19295eab9469",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 229,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "dd489a94-2e33-4d5c-9888-0bdbe16dfef6",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "85c7da69-ed98-4dbb-abd6-a2f4fe3c0a53",
-    "planned_order_id": "a09d5753-f5b4-4720-97c9-19295eab9469"
+    "planned_order_id": "a09d5753-f5b4-4720-97c9-19295eab9469",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "33882749-6de9-4bde-b22a-c98e654803ae",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "9410737a-74ae-4bf6-81ff-a9db621b9543",
-    "planned_order_id": "a0aaaa1c-f0b7-4c2e-8580-a1ea06993378"
+    "planned_order_id": "a0aaaa1c-f0b7-4c2e-8580-a1ea06993378",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 92,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "98ca6402-d167-4611-bee0-5196fec5e98b",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "5c81c4dd-0740-4361-9e09-ac3bd4935a33",
-    "planned_order_id": "a316ac7b-fec2-498a-bc17-ed24d1b0db6b"
+    "planned_order_id": "a316ac7b-fec2-498a-bc17-ed24d1b0db6b",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 77,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "7a001622-382d-4b30-b8ed-0e51cd25b8b9",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "fb71626d-6c88-4bab-a00b-f267b694d16c",
-    "planned_order_id": "a43a4b7d-3257-4e1b-a2bc-46b6ba1104f7"
+    "planned_order_id": "a43a4b7d-3257-4e1b-a2bc-46b6ba1104f7",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 205,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "13b4c9b9-ac42-40b4-8935-b764438d2b85",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "14ff2419-687b-47d4-aed4-c369df19feb8",
-    "planned_order_id": "a49c4f69-5170-45b9-8a4c-b6f16de1ace9"
+    "planned_order_id": "a49c4f69-5170-45b9-8a4c-b6f16de1ace9",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 230,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "3330a3d9-cc9d-4677-9e53-80a70e9cfaef",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "430b434f-487b-4b55-a815-eba8f1062d79",
-    "planned_order_id": "a49c4f69-5170-45b9-8a4c-b6f16de1ace9"
+    "planned_order_id": "a49c4f69-5170-45b9-8a4c-b6f16de1ace9",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 151,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "980af38f-5d90-498e-aa05-d3decb4aeac4",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "180bfbc6-f232-4c54-8279-5e52faf791e6",
-    "planned_order_id": "a49c4f69-5170-45b9-8a4c-b6f16de1ace9"
+    "planned_order_id": "a49c4f69-5170-45b9-8a4c-b6f16de1ace9",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 100,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "333ca795-98ee-4436-a9f2-f4b4571ed78f",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "f8606646-f45a-44da-bdb6-064c43870a01",
-    "planned_order_id": "a4b460a4-7d0e-4056-9920-9db7ac4ded06"
+    "planned_order_id": "a4b460a4-7d0e-4056-9920-9db7ac4ded06",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 155,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "1a69f7d0-ef18-422d-b4b3-940691701c40",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "59bcccfa-4a12-4112-8553-a4cf4b5c9636",
-    "planned_order_id": "a72b1c90-ea82-4a57-8598-a9b531dcd3e3"
+    "planned_order_id": "a72b1c90-ea82-4a57-8598-a9b531dcd3e3",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 138,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "57b97647-a10a-4d32-b0d4-bf56779b788d",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "13db67af-79ec-4a1f-86e4-fa7ea172c1f1",
-    "planned_order_id": "a72b1c90-ea82-4a57-8598-a9b531dcd3e3"
+    "planned_order_id": "a72b1c90-ea82-4a57-8598-a9b531dcd3e3",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 95,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "5a5c1fb7-70b5-43cf-bf87-4313b1445298",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "2bf5d81d-830d-4048-9b1b-420ab131370a",
-    "planned_order_id": "a72b1c90-ea82-4a57-8598-a9b531dcd3e3"
+    "planned_order_id": "a72b1c90-ea82-4a57-8598-a9b531dcd3e3",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 108,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "5c090654-f89c-4f1e-88c6-64c976c8464d",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "532292f1-7a33-438d-82b6-1f66f56f2d6f",
-    "planned_order_id": "a72b1c90-ea82-4a57-8598-a9b531dcd3e3"
+    "planned_order_id": "a72b1c90-ea82-4a57-8598-a9b531dcd3e3",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 192,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "8df7864d-1803-469b-a331-9f12f26af9a1",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "8258f8bb-7f8e-4af9-a201-738967f0a8b5",
-    "planned_order_id": "a72b1c90-ea82-4a57-8598-a9b531dcd3e3"
+    "planned_order_id": "a72b1c90-ea82-4a57-8598-a9b531dcd3e3",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 257,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "894ded3e-7edf-4497-aa69-c64422596614",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "90eea97e-0e7c-4767-b1be-44d96c602d9c",
-    "planned_order_id": "aabf3cd2-05f6-439f-a8df-a03889499438"
+    "planned_order_id": "aabf3cd2-05f6-439f-a8df-a03889499438",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 199,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "ebbb1663-391c-4467-8605-bdef088783d1",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "e9dd8774-32db-43e6-a1b2-d05be8ee05fc",
-    "planned_order_id": "aabf3cd2-05f6-439f-a8df-a03889499438"
+    "planned_order_id": "aabf3cd2-05f6-439f-a8df-a03889499438",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 116,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "9c6298cc-d619-4a3f-ae74-2165851bfd79",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "6b13f6f1-f3b5-4c23-ac90-31bab907925c",
-    "planned_order_id": "ab5952e4-2346-4874-b41c-0d3d67e5fa9c"
+    "planned_order_id": "ab5952e4-2346-4874-b41c-0d3d67e5fa9c",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 211,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "b9382aca-9a41-4b9a-aac7-8377a504383e",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "df2a5638-b447-4b86-a371-25d6c50577ec",
-    "planned_order_id": "ab5952e4-2346-4874-b41c-0d3d67e5fa9c"
+    "planned_order_id": "ab5952e4-2346-4874-b41c-0d3d67e5fa9c",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 167,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "e0790431-46e1-40f7-9e61-a3370710d829",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "02b6b222-5612-4e48-bf8c-f0359d6edefc",
-    "planned_order_id": "ab5952e4-2346-4874-b41c-0d3d67e5fa9c"
+    "planned_order_id": "ab5952e4-2346-4874-b41c-0d3d67e5fa9c",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 36,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "21dd7e81-b6f8-4093-888d-ac1e0b489a17",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "c16b8607-7662-4ad0-bd18-7a2576f2e5f9",
-    "planned_order_id": "ad87e8a2-2f1a-4a8e-838b-deb9f4dbd581"
+    "planned_order_id": "ad87e8a2-2f1a-4a8e-838b-deb9f4dbd581",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 147,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "85e3ca50-79ed-4dc4-b2f6-bcc64909436c",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "a2bc92d0-d262-4b7a-a245-c0b0df1283ea",
-    "planned_order_id": "ad87e8a2-2f1a-4a8e-838b-deb9f4dbd581"
+    "planned_order_id": "ad87e8a2-2f1a-4a8e-838b-deb9f4dbd581",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 191,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "d2a66885-27e2-45b5-bba2-eed2fe962a29",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "6faa64f5-efa4-4fcd-9913-df6412a647cc",
-    "planned_order_id": "ad87e8a2-2f1a-4a8e-838b-deb9f4dbd581"
+    "planned_order_id": "ad87e8a2-2f1a-4a8e-838b-deb9f4dbd581",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 114,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "e0072de4-faab-43a6-ab1b-f98eb78d30fe",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "dc51fdac-46da-4d91-a821-4aa106034871",
-    "planned_order_id": "ad87e8a2-2f1a-4a8e-838b-deb9f4dbd581"
+    "planned_order_id": "ad87e8a2-2f1a-4a8e-838b-deb9f4dbd581",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 95,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "7d19e748-1a17-48dd-bb33-cad6a6172a81",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "e7064fea-3498-4080-bbe7-d93e94199120",
-    "planned_order_id": "b06c55b7-0869-4ba4-8994-804857c9978d"
+    "planned_order_id": "b06c55b7-0869-4ba4-8994-804857c9978d",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 96,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "87d34c10-1a70-4a46-ae3a-ea502ad20e23",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "49780cc5-7c78-49a2-968a-6fa87a70df09",
-    "planned_order_id": "b06c55b7-0869-4ba4-8994-804857c9978d"
+    "planned_order_id": "b06c55b7-0869-4ba4-8994-804857c9978d",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 119,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "96ab6f6f-dd65-4080-9e07-1fbc712f4699",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "320416e9-3a69-4bb5-94b4-a7670782036b",
-    "planned_order_id": "b4c92167-707b-44d0-b4ad-124d6054f675"
+    "planned_order_id": "b4c92167-707b-44d0-b4ad-124d6054f675",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 8,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "9858b892-5c39-47c2-af21-b02f0ddb4c7b",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "5c339df8-9326-4a8f-9b80-df23772b62e8",
-    "planned_order_id": "b4c92167-707b-44d0-b4ad-124d6054f675"
+    "planned_order_id": "b4c92167-707b-44d0-b4ad-124d6054f675",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 82,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "a2a8a1fe-29cf-4a0c-87ec-e761de940b0f",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "6a79056b-7f7c-4eac-9e35-af44a8ffcaef",
-    "planned_order_id": "b4c92167-707b-44d0-b4ad-124d6054f675"
+    "planned_order_id": "b4c92167-707b-44d0-b4ad-124d6054f675",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 92,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "a53cc682-ecda-436a-a5b3-4155b4600e90",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "93c839c7-98cb-4521-86f6-1384f0f93792",
-    "planned_order_id": "b4c92167-707b-44d0-b4ad-124d6054f675"
+    "planned_order_id": "b4c92167-707b-44d0-b4ad-124d6054f675",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 160,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "b0d11752-1c89-4eb9-a4cc-3832fd5ed19d",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "abed8baf-4191-4c6c-8824-8deac40aa0df",
-    "planned_order_id": "b4c92167-707b-44d0-b4ad-124d6054f675"
+    "planned_order_id": "b4c92167-707b-44d0-b4ad-124d6054f675",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 48,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "d42dec6f-4fc9-4412-930e-4ed193811512",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "7bd0b207-bff3-44a7-affa-4e9cd34b129f",
-    "planned_order_id": "b4c92167-707b-44d0-b4ad-124d6054f675"
+    "planned_order_id": "b4c92167-707b-44d0-b4ad-124d6054f675",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 121,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "d1319118-8e69-45c4-9e2a-dafd6b0155c9",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "d1875ac2-adc6-4fb0-94c3-597b7b72328c",
-    "planned_order_id": "b95017ac-1269-470b-a1b0-775cf0fb68e6"
+    "planned_order_id": "b95017ac-1269-470b-a1b0-775cf0fb68e6",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "3870d17a-a3bb-4266-8e09-7538f78b551d",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "1dbf0eea-e7f1-48ba-abc1-bd356f526ad9",
-    "planned_order_id": "bd3fc0e9-333e-4f60-aa67-935f0f4a6ce0"
+    "planned_order_id": "bd3fc0e9-333e-4f60-aa67-935f0f4a6ce0",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "640b5faa-9ea0-4e18-b898-536f8f85955c",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "d0aeac32-7c39-4285-b7a1-4f51da6b1e44",
-    "planned_order_id": "bd3fc0e9-333e-4f60-aa67-935f0f4a6ce0"
+    "planned_order_id": "bd3fc0e9-333e-4f60-aa67-935f0f4a6ce0",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 52,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "9ff2c6cc-480f-4df0-b596-b54484dc9073",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "7b2b0d67-03fb-4a19-9d02-a6e5235d2ffe",
-    "planned_order_id": "bd3fc0e9-333e-4f60-aa67-935f0f4a6ce0"
+    "planned_order_id": "bd3fc0e9-333e-4f60-aa67-935f0f4a6ce0",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 100,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "a7c76a9d-f7ef-4b69-b29a-faa501fc3abc",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "055ffefe-7fa8-46a5-bc63-b4f392d4ad34",
-    "planned_order_id": "bd3fc0e9-333e-4f60-aa67-935f0f4a6ce0"
+    "planned_order_id": "bd3fc0e9-333e-4f60-aa67-935f0f4a6ce0",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 89,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "3411289f-d746-4fae-8509-dccfe3d5ba31",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "a5d54055-e577-4a25-99eb-9c1c9d9266d8",
-    "planned_order_id": "c7554148-7b2f-4d8f-a2db-dd5f34858dca"
+    "planned_order_id": "c7554148-7b2f-4d8f-a2db-dd5f34858dca",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 94,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "4dba0ead-74c6-4e90-88a5-67ca0e797b22",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "8526f2e2-b683-49b4-a44c-7db7a116d5eb",
-    "planned_order_id": "c9fd7bab-dc40-4d34-9a46-d2aab8c4b5b0"
+    "planned_order_id": "c9fd7bab-dc40-4d34-9a46-d2aab8c4b5b0",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 87,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "7a51dd63-537c-4f6d-a489-cdf1c41053e8",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "5f8db295-8b4d-4c72-9678-dfbc8f5f5425",
-    "planned_order_id": "c9fd7bab-dc40-4d34-9a46-d2aab8c4b5b0"
+    "planned_order_id": "c9fd7bab-dc40-4d34-9a46-d2aab8c4b5b0",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 60,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "cfb958b7-53f3-41a0-a4cf-27715ffd807e",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "3f4c9d0d-0017-4e5b-9438-a98cd3a9eeba",
-    "planned_order_id": "c9fd7bab-dc40-4d34-9a46-d2aab8c4b5b0"
+    "planned_order_id": "c9fd7bab-dc40-4d34-9a46-d2aab8c4b5b0",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 138,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "d3c0bb5d-f538-4831-9ad9-7cf7194cc074",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "01578336-f535-40a5-8cc3-3cd7b9cb9cfa",
-    "planned_order_id": "c9fd7bab-dc40-4d34-9a46-d2aab8c4b5b0"
+    "planned_order_id": "c9fd7bab-dc40-4d34-9a46-d2aab8c4b5b0",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 95,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "fcbf8922-bb28-46e2-85a5-fc77aca64204",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "f97a5aa3-6a4c-48a1-b75d-3972cde5eed8",
-    "planned_order_id": "c9fd7bab-dc40-4d34-9a46-d2aab8c4b5b0"
+    "planned_order_id": "c9fd7bab-dc40-4d34-9a46-d2aab8c4b5b0",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 241,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "1cd837ae-aaf2-49bb-9d26-6e472d279f6d",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "f59f4610-538e-4a6b-86dd-e1503911397f",
-    "planned_order_id": "cb39efb2-8013-407e-b2be-f1c1a177635f"
+    "planned_order_id": "cb39efb2-8013-407e-b2be-f1c1a177635f",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 352,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "31b88228-d4e0-44c6-95c7-c90a35888c75",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "cef4c6bc-1335-4c65-96e1-1447a3626984",
-    "planned_order_id": "cb39efb2-8013-407e-b2be-f1c1a177635f"
+    "planned_order_id": "cb39efb2-8013-407e-b2be-f1c1a177635f",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 700,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "216a0bb9-21f9-4370-a2cb-55eb40b618c5",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "725aa618-6a3f-447b-8325-9526e1365d4a",
-    "planned_order_id": "ce9e6849-2319-495c-a008-ba39e5b3ba13"
+    "planned_order_id": "ce9e6849-2319-495c-a008-ba39e5b3ba13",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 128,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "7885c506-22f8-4ec8-9848-5fae6b869bdc",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "0249539a-04c7-4f5d-ae9a-68767a020bd4",
-    "planned_order_id": "ce9e6849-2319-495c-a008-ba39e5b3ba13"
+    "planned_order_id": "ce9e6849-2319-495c-a008-ba39e5b3ba13",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 94,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "87821b3b-78b9-4db3-abb4-b57929f0065d",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "7e09ab7f-17ae-4815-8c15-f055e3394477",
-    "planned_order_id": "ce9e6849-2319-495c-a008-ba39e5b3ba13"
+    "planned_order_id": "ce9e6849-2319-495c-a008-ba39e5b3ba13",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 121,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "95ab6b1c-4d5c-49bd-aa74-b297143963af",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "a3c14259-4f7c-479e-922d-272dfd47faa0",
-    "planned_order_id": "ce9e6849-2319-495c-a008-ba39e5b3ba13"
+    "planned_order_id": "ce9e6849-2319-495c-a008-ba39e5b3ba13",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 98,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "f73df05d-87e7-4185-a614-186348e1133c",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "4f80b145-6757-4a77-8a23-1e9bffee6ef1",
-    "planned_order_id": "ce9e6849-2319-495c-a008-ba39e5b3ba13"
+    "planned_order_id": "ce9e6849-2319-495c-a008-ba39e5b3ba13",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 102,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "2518297d-5aa2-4b5f-a20b-caabc06d9c0e",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "8bfafded-b288-4508-9943-1da054f183c7",
-    "planned_order_id": "cffe0e5e-3ce9-4ce1-a7c5-4c2f3a965aba"
+    "planned_order_id": "cffe0e5e-3ce9-4ce1-a7c5-4c2f3a965aba",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 84,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "29c4364b-2cad-46c5-b9f6-b402d99ce8b7",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "d43180c7-cc67-4b7c-ae77-de789335db6f",
-    "planned_order_id": "cffe0e5e-3ce9-4ce1-a7c5-4c2f3a965aba"
+    "planned_order_id": "cffe0e5e-3ce9-4ce1-a7c5-4c2f3a965aba",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 95,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "5f58cb2e-edda-4e63-b76e-2a58c43d03a9",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "283b3594-1b4f-4be7-80df-edaa9e39480c",
-    "planned_order_id": "cffe0e5e-3ce9-4ce1-a7c5-4c2f3a965aba"
+    "planned_order_id": "cffe0e5e-3ce9-4ce1-a7c5-4c2f3a965aba",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "bb53d29f-47c2-4975-904d-86ce913ae103",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "4db37f7a-e0a9-4a4b-8fa4-377d9e0dd948",
-    "planned_order_id": "cffe0e5e-3ce9-4ce1-a7c5-4c2f3a965aba"
+    "planned_order_id": "cffe0e5e-3ce9-4ce1-a7c5-4c2f3a965aba",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 16,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "f5348647-4dbb-4f78-baad-46c7ffcb0de1",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "bce54870-0f14-4a2a-bbc7-1ad58ed02095",
-    "planned_order_id": "cffe0e5e-3ce9-4ce1-a7c5-4c2f3a965aba"
+    "planned_order_id": "cffe0e5e-3ce9-4ce1-a7c5-4c2f3a965aba",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 90,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "0ec46063-3e54-4b59-b18f-9c95eb9bff6b",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "0787c785-bdc8-4d70-9d48-d799e47ddabe",
-    "planned_order_id": "d5f9ee83-aa2b-4331-abbf-8f9f297f9272"
+    "planned_order_id": "d5f9ee83-aa2b-4331-abbf-8f9f297f9272",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 100,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "1a633dcc-e63c-4a67-ac11-6d31abcc23ec",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "a402ddde-675e-4961-b859-2f2c5dc9802c",
-    "planned_order_id": "d5f9ee83-aa2b-4331-abbf-8f9f297f9272"
+    "planned_order_id": "d5f9ee83-aa2b-4331-abbf-8f9f297f9272",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 107,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "1bdb148d-b55a-4dd7-b717-fceade3dd904",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "d302446b-b29f-4a86-974e-eda528eca9ea",
-    "planned_order_id": "d5f9ee83-aa2b-4331-abbf-8f9f297f9272"
+    "planned_order_id": "d5f9ee83-aa2b-4331-abbf-8f9f297f9272",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 149,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "3f9c3c04-f6f4-4f9d-a370-4fd78289e5d6",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "51759433-97d3-40bc-a94d-b2e1440f7fe6",
-    "planned_order_id": "d5f9ee83-aa2b-4331-abbf-8f9f297f9272"
+    "planned_order_id": "d5f9ee83-aa2b-4331-abbf-8f9f297f9272",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 194,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "c5c0f5ed-9158-4ca8-8258-7cecd622a15b",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "700e943e-b05c-421a-a08e-eebdeafc7781",
-    "planned_order_id": "d5f9ee83-aa2b-4331-abbf-8f9f297f9272"
+    "planned_order_id": "d5f9ee83-aa2b-4331-abbf-8f9f297f9272",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 800,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "64ac5fac-f69d-4912-9609-42b2302aefd3",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "9c7f5849-524c-4948-9cf5-0c2cd2d5482a",
-    "planned_order_id": "d75ae1e5-c7aa-4f3d-a540-d363d6b6dc39"
+    "planned_order_id": "d75ae1e5-c7aa-4f3d-a540-d363d6b6dc39",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 268,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "fe73db9e-89be-4b81-bc8e-b6d829403d4b",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "d833e83d-d994-4d4c-b399-8cdce04de6ad",
-    "planned_order_id": "d7f59ccd-f95f-4e22-a777-d4bf350c5951"
+    "planned_order_id": "d7f59ccd-f95f-4e22-a777-d4bf350c5951",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 233,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "66af5d74-f2e0-4c03-9295-6f44f85ad005",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "fc987515-df3a-4f17-a9b1-85ecc60e2a6f",
-    "planned_order_id": "d96637d6-fe79-4526-a3ea-18213bee4841"
+    "planned_order_id": "d96637d6-fe79-4526-a3ea-18213bee4841",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 363,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "b9e7c8dc-dc61-452a-826d-3a77b7f77893",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "749490b3-3bd1-475a-bff9-764870809e39",
-    "planned_order_id": "d96637d6-fe79-4526-a3ea-18213bee4841"
+    "planned_order_id": "d96637d6-fe79-4526-a3ea-18213bee4841",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 92,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "d46df445-4b63-4310-b8ae-f7b9756151fc",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "b738737d-6bf6-45e5-90c0-861a75d96919",
-    "planned_order_id": "d96637d6-fe79-4526-a3ea-18213bee4841"
+    "planned_order_id": "d96637d6-fe79-4526-a3ea-18213bee4841",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 131,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "069eca12-56c0-44d1-b1ed-17e048b24d9f",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "2fdcfd06-715e-4431-b323-fdca3c377d55",
-    "planned_order_id": "dafba84f-7e58-479d-8e36-02b78065d2be"
+    "planned_order_id": "dafba84f-7e58-479d-8e36-02b78065d2be",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 27,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "069eca12-56c0-44d1-b1ed-17e048b24d9f",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "9bd74a74-3100-4492-be0f-b145fd4caa92",
-    "planned_order_id": "dafc4de3-c09d-4da0-8959-9659c6c0ffcf"
+    "planned_order_id": "dafc4de3-c09d-4da0-8959-9659c6c0ffcf",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 110,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "069eca12-56c0-44d1-b1ed-17e048b24d9f",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "bce8abbf-ca17-49f4-8c89-2b291c36b40a",
-    "planned_order_id": "de12dac2-1df4-4e92-a9cf-c19ba71ad59a"
+    "planned_order_id": "de12dac2-1df4-4e92-a9cf-c19ba71ad59a",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 100,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "dc9e3a5a-e4e9-446f-8705-7bba996e1edb",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "e5460cd6-9630-4eb3-9ab5-9c9f5df21beb",
-    "planned_order_id": "e2b9bcf2-7fac-414f-b8c3-625ade2a521b"
+    "planned_order_id": "e2b9bcf2-7fac-414f-b8c3-625ade2a521b",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 190,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "fb6cf700-f7ed-4f6a-ae9f-dfca0d4e260f",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "46f8700f-0ecc-408e-861c-c06c793b34da",
-    "planned_order_id": "e2b9bcf2-7fac-414f-b8c3-625ade2a521b"
+    "planned_order_id": "e2b9bcf2-7fac-414f-b8c3-625ade2a521b",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "4d50d39c-501b-426a-b7b8-9bee1fbabde9",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "1152c10a-30d5-43c2-8737-b1405e9f2f73",
-    "planned_order_id": "ebf6522d-52e5-4aad-878b-aa541435d13a"
+    "planned_order_id": "ebf6522d-52e5-4aad-878b-aa541435d13a",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 113,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "98907f81-f8c0-4c35-ad10-6c9ce67c5236",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "bbeb811b-047f-4b83-be6d-9c39e47dbc89",
-    "planned_order_id": "ebf6522d-52e5-4aad-878b-aa541435d13a"
+    "planned_order_id": "ebf6522d-52e5-4aad-878b-aa541435d13a",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 59,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "ec8b4244-114f-416a-b641-1a10cfe3115c",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "4ff69c68-a4be-4aef-af81-d7c0a76508af",
-    "planned_order_id": "effce850-d706-488c-80c4-c247877b4fe9"
+    "planned_order_id": "effce850-d706-488c-80c4-c247877b4fe9",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 28,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "f2303b99-6e6d-4022-aae0-5519bc4b7da3",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "17bd3d99-0a64-431b-a042-39c5acc67b8c",
-    "planned_order_id": "effce850-d706-488c-80c4-c247877b4fe9"
+    "planned_order_id": "effce850-d706-488c-80c4-c247877b4fe9",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 388,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "0a719e2e-6185-4f5e-91f0-f3e062f936bc",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "59837412-942c-49bb-91d9-78d116f46af2",
-    "planned_order_id": "f14889dc-5a85-4d83-a65c-01f270c1d1f4"
+    "planned_order_id": "f14889dc-5a85-4d83-a65c-01f270c1d1f4",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 395,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "6cee4ef9-3bb4-4e1b-bda3-5349b43a4b80",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "1a174abb-b77a-4a90-b756-3dcd01996ada",
-    "planned_order_id": "f14889dc-5a85-4d83-a65c-01f270c1d1f4"
+    "planned_order_id": "f14889dc-5a85-4d83-a65c-01f270c1d1f4",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 205,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "069eca12-56c0-44d1-b1ed-17e048b24d9f",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "e33dcc9d-16f8-4109-98d6-6a4489017e61",
-    "planned_order_id": "f4615529-70c6-4061-aa87-011c186909c4"
+    "planned_order_id": "f4615529-70c6-4061-aa87-011c186909c4",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 13,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "a171a6ea-5ef6-42a4-983e-12e449c37a43",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "1cf7455f-c8dc-4541-9730-8bf1e0e6713e",
-    "planned_order_id": "fc93d880-6948-4893-a95b-cf131bec63de"
+    "planned_order_id": "fc93d880-6948-4893-a95b-cf131bec63de",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 50,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "b6d5428f-9ad7-4bf2-82a3-da2e1dcdc975",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "1d3382b2-afc4-4c69-842e-e9cdcdbe04df",
-    "planned_order_id": "fc93d880-6948-4893-a95b-cf131bec63de"
+    "planned_order_id": "fc93d880-6948-4893-a95b-cf131bec63de",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 73,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "ca794835-65ed-4603-bb16-44feef57d98d",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "92974d17-037a-4b24-8c5b-a713fb01063e",
-    "planned_order_id": "fc93d880-6948-4893-a95b-cf131bec63de"
+    "planned_order_id": "fc93d880-6948-4893-a95b-cf131bec63de",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 113,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "c38a1705-b8fe-42f3-8674-c3ef193ffe5a",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "f48ac855-abb5-4766-98cb-7e42da5c5d8a",
-    "planned_order_id": "fcec3233-f235-46c2-bc4c-4c003630dbd6"
+    "planned_order_id": "fcec3233-f235-46c2-bc4c-4c003630dbd6",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 27,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "069eca12-56c0-44d1-b1ed-17e048b24d9f",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "5fd8ed02-d87e-4f4b-8f42-34e0d850a4e1",
-    "planned_order_id": "fdc3f73d-4017-4fb3-b3e2-8b3b0b0fad5f"
+    "planned_order_id": "fdc3f73d-4017-4fb3-b3e2-8b3b0b0fad5f",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   },
   {
     "allocated_quantity": 172,
+    "demand_active_snapshot": null,
+    "demand_quantity_snapshot": null,
     "demand_tracking_line_id": "3411289f-d746-4fae-8509-dccfe3d5ba31",
+    "demand_tracking_version_snapshot": null,
+    "group_requirement_date_snapshot": null,
     "id": "f8cd9d98-ed74-41b6-a5d1-2d924084b78c",
-    "planned_order_id": "feec36b5-92c0-47a1-b24d-3fccd3d39f63"
+    "planned_order_id": "feec36b5-92c0-47a1-b24d-3fccd3d39f63",
+    "product_sku_snapshot": null,
+    "requirement_date_snapshot": null
   }
 ]
