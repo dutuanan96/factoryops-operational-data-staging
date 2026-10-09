@@ -9052,5 +9052,23 @@
     "id": "1bd34375-56d3-4a51-b8cd-2ccd14f33fef",
     "metadata_json": "{\"orderNumber\":\"PL-2611-00001\",\"lotSizingMethod\":\"DAILY_LOT_FOR_LOT\",\"demandLineCount\":2,\"plannedQuantity\":2,\"requirementDate\":\"2026-11-15\",\"scheduledDate\":\"2026-11-14\",\"planningDailyCapacity\":1600,\"levelingHorizonDays\":7}",
     "occurred_at": "2026-10-09 06:48:31"
+  },
+  {
+    "action": "CREATE",
+    "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
+    "entity_id": "612842e7-b936-41fa-a432-c65568c2d897",
+    "entity_type": "PRODUCTION_PLAN",
+    "id": "df6c904b-ea60-47b3-a9db-05cba7e75139",
+    "metadata_json": "{\"orderNumber\":\"MO-2611-00001\",\"sourcePlannedOrderId\":\"b6f54f2f-e149-48fa-ad21-cb997ae53340\",\"sourcePlannedOrderNumber\":\"PL-2611-00001\",\"status\":\"DRAFT\",\"plannedQuantity\":2,\"dueDate\":\"2026-11-15\",\"operationalDueDate\":\"2026-11-14\"}",
+    "occurred_at": "2026-10-09 06:50:33"
+  },
+  {
+    "action": "CONVERT",
+    "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
+    "entity_id": "b6f54f2f-e149-48fa-ad21-cb997ae53340",
+    "entity_type": "PLANNED_PRODUCTION_ORDER",
+    "id": "f9c7bd0e-9610-4d6f-ab85-d4ef7ae03081",
+    "metadata_json": "{\"plannedOrderNumber\":\"PL-2611-00001\",\"productionOrderNumber\":\"MO-2611-00001\",\"productionPlanId\":\"612842e7-b936-41fa-a432-c65568c2d897\",\"plannedQuantity\":2,\"requirementDate\":\"2026-11-15\",\"scheduledDate\":\"2026-11-14\"}",
+    "occurred_at": "2026-10-09 06:50:33"
   }
 ]

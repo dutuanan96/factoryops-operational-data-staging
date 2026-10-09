@@ -480,6 +480,18 @@
     "production_plan_id": "59fe71ea-1006-41e8-9f3e-2e61bf6733ef"
   },
   {
+    "allocated_quantity": 1,
+    "demand_tracking_line_id": "49dc2c7e-4239-435a-ae4e-e5932c5dc354",
+    "id": "7339b3b4-eb66-4bc5-b686-7f859ab4c76a",
+    "production_plan_id": "612842e7-b936-41fa-a432-c65568c2d897"
+  },
+  {
+    "allocated_quantity": 1,
+    "demand_tracking_line_id": "b37ee930-0715-43f1-8471-e41649d242f9",
+    "id": "5173d81a-1202-4711-aed2-adf114e8e371",
+    "production_plan_id": "612842e7-b936-41fa-a432-c65568c2d897"
+  },
+  {
     "allocated_quantity": 31,
     "demand_tracking_line_id": "2ab3e032-a372-41ae-b87b-241032502676",
     "id": "48859fbe-d306-4319-9201-203490faa77a",

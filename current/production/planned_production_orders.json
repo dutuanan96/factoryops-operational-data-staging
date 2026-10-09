@@ -1470,8 +1470,8 @@
     "version": 2
   },
   {
-    "converted_at": null,
-    "converted_production_plan_id": null,
+    "converted_at": "2026-10-09 06:50:33",
+    "converted_production_plan_id": "612842e7-b936-41fa-a432-c65568c2d897",
     "created_at": "2026-10-09 06:48:31",
     "created_by": "acce4cff-6984-4fdd-884e-f53906435484",
     "id": "b6f54f2f-e149-48fa-ad21-cb997ae53340",
@@ -1481,7 +1481,7 @@
     "product_sku": "LGS131B101V1S",
     "requirement_date": "2026-11-15",
     "scheduled_date": "2026-11-14",
-    "status": "UNPROCESSED",
-    "version": 1
+    "status": "CONVERTED",
+    "version": 2
   }
 ]
