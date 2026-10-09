@@ -254,5 +254,13 @@
     "id": "eab193f6-227a-4776-9ea8-4d3d7b74c852",
     "supplier_code": "SUP-ZHONGCHENG-004",
     "supplier_name": "众城"
+  },
+  {
+    "active": 1,
+    "created_at": "2026-10-09 02:37:09",
+    "created_by": "acce4cff-6984-4fdd-884e-f53906435484",
+    "id": "32218ed4-e044-44b5-a970-71b25c1aff51",
+    "supplier_code": "TEST-E2E-20261009T023654Z",
+    "supplier_name": "TEST FactoryOps GitHub Sync E2E 2026-10-09"
   }
 ]

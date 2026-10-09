@@ -2,7 +2,7 @@
   "factoryInstanceId": "factory-pilot-01",
   "fileCount": 35,
   "files": {
-    "audit/audit_events.json": "66d27eb324feafdb0e905ee28dda38af9e611390ac8dd595448108cfd81ef219",
+    "audit/audit_events.json": "4598f02b86a0eda16ba1c0943b2f8c65ff73bf6b2894915d02b93264a37013d4",
     "inventory/auxiliary_items.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
     "inventory/finished_goods_receipt_consumptions.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
     "inventory/finished_goods_receipt_provenance.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
@@ -28,7 +28,7 @@
     "purchasing/purchase_order_cancellations.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
     "purchasing/purchase_order_lines.json": "127cc48a28d0b6b3236c958e7f993ce1455a88d9f58f57e1c7aeb7a3127a0fcc",
     "purchasing/purchase_orders.json": "d9d5907be7093ae65a89970937f65583990eb8c057e1531f3a306d736b01ac0a",
-    "purchasing/suppliers.json": "6d813e2ad6527472d90e6a0d3d1cbbb116f9075d5c54fef8f1da319f56af76a6",
+    "purchasing/suppliers.json": "2000fc4acfec7f4362ae7fdd8c1ccb7472292bf3a56fe00aa4aa6f81c26d0ecc",
     "shipment/demand_quantity_adjustments.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
     "shipment/demand_tracking_lines.json": "2276f4802535d588fb43f0c36298a9ce60bd8f5c25f328e471b1543a774a4447",
     "shipment/finished_goods_reservations.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
@@ -38,7 +38,7 @@
     "shipment/shipment_plan_lines.json": "db170cdc42692375202db90940fefa39e8c2593284ca72bc1ad8af9f7c79a805",
     "system/users.json": "871ba032d763e64ba277d7eba7260b63bc935bdbf6ec69559d81869e9494c5da"
   },
-  "lastRepresentedSyncSeq": 4,
+  "lastRepresentedSyncSeq": 5,
   "schemaVersion": "1.0",
-  "sourceRevision": "bd0932f11e9cc2aff79c36af985f9c8561e17a62"
+  "sourceRevision": "596f9a6bd3c1d1e3f11ebcf09188d7835b65e20e"
 }

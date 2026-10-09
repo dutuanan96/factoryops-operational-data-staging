@@ -20,7 +20,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "7255c1c95aa452637381b2ff8fff79e1ba09d242b0316102ccdaa24c32a63d2c",
+    "entity_id": "LOGIN-AUDIT:dffb0464-fd92-46b0-b866-c38a5b9d9d09",
     "entity_type": "SESSION",
     "id": "dffb0464-fd92-46b0-b866-c38a5b9d9d09",
     "metadata_json": "{}",
@@ -1577,7 +1577,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "194f9a52a1f57d3c750175b77be92e6405d334ecc09af2f01f866c0c16a3cbb3",
+    "entity_id": "LOGIN-AUDIT:49a0270a-0402-4851-8afc-6b38725fa124",
     "entity_type": "SESSION",
     "id": "49a0270a-0402-4851-8afc-6b38725fa124",
     "metadata_json": "{}",
@@ -1703,7 +1703,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "49499825bc3fa3b1d9da0a93931cca9ccee655480087f6c363cd9487174080e6",
+    "entity_id": "LOGIN-AUDIT:4380f326-e2aa-4ad7-b398-1bf47493c46d",
     "entity_type": "SESSION",
     "id": "4380f326-e2aa-4ad7-b398-1bf47493c46d",
     "metadata_json": "{}",
@@ -1712,7 +1712,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "498feb275a2e324f47c81606ef1bbbc70702c2b2c104651e5c8120dc2c4acc69",
+    "entity_id": "LOGIN-AUDIT:dbd2719d-d6fc-4538-8650-ed540b9c6d67",
     "entity_type": "SESSION",
     "id": "dbd2719d-d6fc-4538-8650-ed540b9c6d67",
     "metadata_json": "{}",
@@ -1721,7 +1721,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "b8497c7d847a55e80a62312dbb9c350cc0b45c96bfa36d2b1ba1e74f69466b9b",
+    "entity_id": "LOGIN-AUDIT:1c103d5a-984b-412a-8134-472cacc479a0",
     "entity_type": "SESSION",
     "id": "1c103d5a-984b-412a-8134-472cacc479a0",
     "metadata_json": "{}",
@@ -1730,7 +1730,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "ccf5ba1d5a4072239eaa32eca992c91a3077d47167754a02cdda535a4d7ecab3",
+    "entity_id": "LOGIN-AUDIT:7d163afb-8b8f-48dc-9ec1-cc4ab78da8c7",
     "entity_type": "SESSION",
     "id": "7d163afb-8b8f-48dc-9ec1-cc4ab78da8c7",
     "metadata_json": "{}",
@@ -1739,7 +1739,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "35bdf2be4c70185f601595c85a76f07700fb386247a7119969888d6a75b44f19",
+    "entity_id": "LOGIN-AUDIT:b805b473-8a3e-45d8-a954-574952a5f3ee",
     "entity_type": "SESSION",
     "id": "b805b473-8a3e-45d8-a954-574952a5f3ee",
     "metadata_json": "{}",
@@ -1748,7 +1748,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "76b4c78469f33e7839744e5b4a8b28386d940b613513673e565bdd7d24b2e4db",
+    "entity_id": "LOGIN-AUDIT:6ac0c764-f949-4890-856c-201f5b90bbba",
     "entity_type": "SESSION",
     "id": "6ac0c764-f949-4890-856c-201f5b90bbba",
     "metadata_json": "{}",
@@ -1757,7 +1757,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "52925474181fe3a87653a7aedbb0cc70192e27d02276ea707aa212981dc2a73d",
+    "entity_id": "LOGIN-AUDIT:04d89748-5c07-4c78-9b37-ae4a749d1be4",
     "entity_type": "SESSION",
     "id": "04d89748-5c07-4c78-9b37-ae4a749d1be4",
     "metadata_json": "{}",
@@ -1775,7 +1775,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "110bbc2260ad5482f24ba9de2c516ac1920539bc77c1e826dcbb9cb09cc0409e",
+    "entity_id": "LOGIN-AUDIT:bd17cf97-85cf-4a48-9708-086d6e039a95",
     "entity_type": "SESSION",
     "id": "bd17cf97-85cf-4a48-9708-086d6e039a95",
     "metadata_json": "{}",
@@ -1784,7 +1784,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "0e7b00b5103eb363850d300fe1f2480576a4d4d192777472d20f51a1c34c3cd2",
+    "entity_id": "LOGIN-AUDIT:30bdfcab-a515-4beb-9eb5-90b50a9b74e8",
     "entity_type": "SESSION",
     "id": "30bdfcab-a515-4beb-9eb5-90b50a9b74e8",
     "metadata_json": "{}",
@@ -1793,7 +1793,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "23ba4ab682a93fe93535473b1a100a1a83703bbac10324b49dc4dd9c328e020c",
+    "entity_id": "LOGIN-AUDIT:89ffdc83-7ca2-4366-97a3-efcd68f07d4d",
     "entity_type": "SESSION",
     "id": "89ffdc83-7ca2-4366-97a3-efcd68f07d4d",
     "metadata_json": "{}",
@@ -1811,7 +1811,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "0e1b018cbd485e3c5a8819d66f70f95fb05311aab87450bb7ee2bfc34311f606",
+    "entity_id": "LOGIN-AUDIT:becde5e8-e67c-45d6-835f-0f11faaf6dfb",
     "entity_type": "SESSION",
     "id": "becde5e8-e67c-45d6-835f-0f11faaf6dfb",
     "metadata_json": "{}",
@@ -3530,7 +3530,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "203b748d8f7ccfb506b3d15f24241d6466fbdfe3aa4fb7ec371fc058a1669b86",
+    "entity_id": "LOGIN-AUDIT:6782339f-0311-4da3-8dc3-955fd23c8d3b",
     "entity_type": "SESSION",
     "id": "6782339f-0311-4da3-8dc3-955fd23c8d3b",
     "metadata_json": "{}",
@@ -3539,7 +3539,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "8ea2c5da2ef43d33441bb7253f06ae66ab702d3bd9fdf888bebb6ab75e25eac5",
+    "entity_id": "LOGIN-AUDIT:fb4b9f7a-de59-4a7b-8931-d2e97c8d53f4",
     "entity_type": "SESSION",
     "id": "fb4b9f7a-de59-4a7b-8931-d2e97c8d53f4",
     "metadata_json": "{}",
@@ -3710,7 +3710,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "2b6352b3c2a74e820655ec7711cd0adb0c122ac7d786947b95f9131c50274ba6",
+    "entity_id": "LOGIN-AUDIT:daca2286-f086-49f9-a279-5a36c2cb39f6",
     "entity_type": "SESSION",
     "id": "daca2286-f086-49f9-a279-5a36c2cb39f6",
     "metadata_json": "{}",
@@ -3737,7 +3737,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "8fd99841d6834b780ca98a31b6e88a40e3d75fb98f5ddfa5db575f6623138257",
+    "entity_id": "LOGIN-AUDIT:88a83e15-ecc5-484a-afe5-b1b37ebc50a7",
     "entity_type": "SESSION",
     "id": "88a83e15-ecc5-484a-afe5-b1b37ebc50a7",
     "metadata_json": "{}",
@@ -3953,7 +3953,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "7ae8c09c50f8a2b537e243b9590f30db2171bfb4b3b395e55e5e0d2125620801",
+    "entity_id": "LOGIN-AUDIT:919de8a3-6fa1-4a22-a2ab-8d86b979f7e6",
     "entity_type": "SESSION",
     "id": "919de8a3-6fa1-4a22-a2ab-8d86b979f7e6",
     "metadata_json": "{}",
@@ -3962,7 +3962,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "f37b2b1836a580272369e3166838a949aa93ba60edc409d6bb1ed74d3ceb42f7",
+    "entity_id": "LOGIN-AUDIT:7170f295-414d-42e6-8d7d-f2aa23cd3db6",
     "entity_type": "SESSION",
     "id": "7170f295-414d-42e6-8d7d-f2aa23cd3db6",
     "metadata_json": "{}",
@@ -3971,7 +3971,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "194fdf25842ffd2ca776801fe1796c6defca60fc420a968ae710545b179d6af1",
+    "entity_id": "LOGIN-AUDIT:6e26f70c-afb7-4a56-8f4e-dc478be485e9",
     "entity_type": "SESSION",
     "id": "6e26f70c-afb7-4a56-8f4e-dc478be485e9",
     "metadata_json": "{}",
@@ -3980,7 +3980,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "8474be6cec6c4aacb5b49439dd155b1ea4db49fc37357ccf10a62279f32063be",
+    "entity_id": "LOGIN-AUDIT:a7d8319b-c03a-4a69-b0c4-acf35efb5b9a",
     "entity_type": "SESSION",
     "id": "a7d8319b-c03a-4a69-b0c4-acf35efb5b9a",
     "metadata_json": "{}",
@@ -3989,7 +3989,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "ccd0a4c8210f5324221728abca02e1bc0293a3f1501293f82d1e5e036226b04f",
+    "entity_id": "LOGIN-AUDIT:bc846ef0-6448-4eb9-b2e8-2e213631e2c0",
     "entity_type": "SESSION",
     "id": "bc846ef0-6448-4eb9-b2e8-2e213631e2c0",
     "metadata_json": "{}",
@@ -4070,7 +4070,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "0d82eafc0c79d94c44861dbccaa61f34f230014230826bfe128437d133338098",
+    "entity_id": "LOGIN-AUDIT:12f9f6e1-84dd-4d25-8a67-b68ebe076cb4",
     "entity_type": "SESSION",
     "id": "12f9f6e1-84dd-4d25-8a67-b68ebe076cb4",
     "metadata_json": "{}",
@@ -4142,7 +4142,7 @@
   {
     "action": "LOGIN",
     "actor_id": "user-planner-01",
-    "entity_id": "92ae5ae833b871272c1b0f2509fba51dd19ae08009d614f66a4917f9388cb508",
+    "entity_id": "LOGIN-AUDIT:9810496f-71df-4127-9eca-6ef07511d915",
     "entity_type": "SESSION",
     "id": "9810496f-71df-4127-9eca-6ef07511d915",
     "metadata_json": "{}",
@@ -4151,7 +4151,7 @@
   {
     "action": "LOGIN",
     "actor_id": "user-planner-01",
-    "entity_id": "52298569274b3b5cb1ce94b5db9f1dba1ea521049f26e751c58c3af745a3e98a",
+    "entity_id": "LOGIN-AUDIT:fe61e192-f9b9-4a58-84ad-c7b82c023eef",
     "entity_type": "SESSION",
     "id": "fe61e192-f9b9-4a58-84ad-c7b82c023eef",
     "metadata_json": "{}",
@@ -4160,7 +4160,7 @@
   {
     "action": "LOGIN",
     "actor_id": "user-planner-01",
-    "entity_id": "4e6d196aff608be49000826bf8e6fa444260fcc94539be92122e31acc00e9272",
+    "entity_id": "LOGIN-AUDIT:610940bc-1056-4675-8fa5-b544f37be893",
     "entity_type": "SESSION",
     "id": "610940bc-1056-4675-8fa5-b544f37be893",
     "metadata_json": "{}",
@@ -4169,7 +4169,7 @@
   {
     "action": "LOGIN",
     "actor_id": "user-planner-01",
-    "entity_id": "810ce8fb7d4ea3b8425a67b09cd6412ed2546c5171dd4cd0e2fa0c11ddbe7c58",
+    "entity_id": "LOGIN-AUDIT:103b7b80-57a0-468b-89fb-c6741b0622fc",
     "entity_type": "SESSION",
     "id": "103b7b80-57a0-468b-89fb-c6741b0622fc",
     "metadata_json": "{}",
@@ -4178,7 +4178,7 @@
   {
     "action": "LOGIN",
     "actor_id": "user-planner-01",
-    "entity_id": "439dbb02678d0822253a263ffd0e9ca79e144aeb1fb5287bcd842050d69b8941",
+    "entity_id": "LOGIN-AUDIT:5d637eb5-4403-46de-bb89-acecb650ad91",
     "entity_type": "SESSION",
     "id": "5d637eb5-4403-46de-bb89-acecb650ad91",
     "metadata_json": "{}",
@@ -4187,7 +4187,7 @@
   {
     "action": "LOGIN",
     "actor_id": "user-planner-01",
-    "entity_id": "4379fa252af3b809e6ada453b89081700ef1f6bd2fbe346c468c129e6d341a91",
+    "entity_id": "LOGIN-AUDIT:f2aa93d6-35ff-43fc-acdc-3711950c2e3b",
     "entity_type": "SESSION",
     "id": "f2aa93d6-35ff-43fc-acdc-3711950c2e3b",
     "metadata_json": "{}",
@@ -4196,7 +4196,7 @@
   {
     "action": "LOGIN",
     "actor_id": "user-planner-01",
-    "entity_id": "da75f82a320ae91586ebf8df67817b3b2c59e7b91dc66af810c1764c9560395c",
+    "entity_id": "LOGIN-AUDIT:8ef082dc-75c8-4e4d-b36f-f9aa0c7ebbff",
     "entity_type": "SESSION",
     "id": "8ef082dc-75c8-4e4d-b36f-f9aa0c7ebbff",
     "metadata_json": "{}",
@@ -4205,7 +4205,7 @@
   {
     "action": "LOGIN",
     "actor_id": "user-planner-01",
-    "entity_id": "fb515c48c5f8f5d3d23f78fc929cb74c67e78b273e49050e071a575ba6347e84",
+    "entity_id": "LOGIN-AUDIT:c3cb9a4a-312b-470b-8127-f9ecbfa5e44f",
     "entity_type": "SESSION",
     "id": "c3cb9a4a-312b-470b-8127-f9ecbfa5e44f",
     "metadata_json": "{}",
@@ -4214,7 +4214,7 @@
   {
     "action": "LOGIN",
     "actor_id": "user-planner-01",
-    "entity_id": "48c2a3478b6c0ada0f1c919e9b61cc0afbdcc540cc826bce4bd22729b5bf8b06",
+    "entity_id": "LOGIN-AUDIT:143d2fe4-8038-4f82-a615-1a98ed2fb46e",
     "entity_type": "SESSION",
     "id": "143d2fe4-8038-4f82-a615-1a98ed2fb46e",
     "metadata_json": "{}",
@@ -4223,7 +4223,7 @@
   {
     "action": "LOGIN",
     "actor_id": "user-planner-01",
-    "entity_id": "56e38ce5989470da22af017d14a89cc99832645e22c407a8f17cad3f88ccf479",
+    "entity_id": "LOGIN-AUDIT:7971f7ea-9192-459c-bbaf-def0dc1015af",
     "entity_type": "SESSION",
     "id": "7971f7ea-9192-459c-bbaf-def0dc1015af",
     "metadata_json": "{}",
@@ -4232,7 +4232,7 @@
   {
     "action": "LOGIN",
     "actor_id": "user-planner-01",
-    "entity_id": "168856849f55c3345c49e1a396daf61f7fd37bcbe7de7688bb1dd309d2e22ae0",
+    "entity_id": "LOGIN-AUDIT:05e74c48-fb6b-45af-96a0-7636d351bb09",
     "entity_type": "SESSION",
     "id": "05e74c48-fb6b-45af-96a0-7636d351bb09",
     "metadata_json": "{}",
@@ -4241,7 +4241,7 @@
   {
     "action": "LOGIN",
     "actor_id": "user-planner-01",
-    "entity_id": "825bf721a636ad7ad6af054d7d7206e8d5c281d656b64dbe5e01d2bdb5e438b5",
+    "entity_id": "LOGIN-AUDIT:76bf5f73-3fdc-4df2-af00-4707b10f7427",
     "entity_type": "SESSION",
     "id": "76bf5f73-3fdc-4df2-af00-4707b10f7427",
     "metadata_json": "{}",
@@ -4250,7 +4250,7 @@
   {
     "action": "LOGIN",
     "actor_id": "user-planner-01",
-    "entity_id": "975c1af9486843a39e6f5d47cb46ed16757f7033f8f90f7aef5241d929487d70",
+    "entity_id": "LOGIN-AUDIT:23d6f286-f9f5-4dec-9ee0-afb96f0985c7",
     "entity_type": "SESSION",
     "id": "23d6f286-f9f5-4dec-9ee0-afb96f0985c7",
     "metadata_json": "{}",
@@ -6428,7 +6428,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "e8198227429e5821ad47ffb695557946293a7e9683323c8e2182491d3b306737",
+    "entity_id": "LOGIN-AUDIT:85b12c60-19e2-4fc1-93a8-a28764a8fd0e",
     "entity_type": "SESSION",
     "id": "85b12c60-19e2-4fc1-93a8-a28764a8fd0e",
     "metadata_json": "{}",
@@ -6437,7 +6437,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "8a00a9fbe6031a88afe13e478f2c959b39ffe3dbbd8ed2cb68ba99f64e38383f",
+    "entity_id": "LOGIN-AUDIT:1b3904cb-f621-4f9f-be4b-878fad2f29a0",
     "entity_type": "SESSION",
     "id": "1b3904cb-f621-4f9f-be4b-878fad2f29a0",
     "metadata_json": "{}",
@@ -6482,7 +6482,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "84ba6f0b4d006aab3dc5f8b300d1d3d1645b0a3b246b4c264112e779d6a4c2b3",
+    "entity_id": "LOGIN-AUDIT:5538b9c3-a626-4051-9585-81e05e077836",
     "entity_type": "SESSION",
     "id": "5538b9c3-a626-4051-9585-81e05e077836",
     "metadata_json": "{}",
@@ -6491,7 +6491,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "7d336a00d89eecf8d871e568429f6c621085e8c6c3c7fa91449f85d5c3178176",
+    "entity_id": "LOGIN-AUDIT:3797193e-1b84-4b93-b373-396de267e2b4",
     "entity_type": "SESSION",
     "id": "3797193e-1b84-4b93-b373-396de267e2b4",
     "metadata_json": "{}",
@@ -8147,7 +8147,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "1f561ca69b88ccf3e1470391e7dace1304a27541f8a8aaf8ba3d100258e77b9e",
+    "entity_id": "LOGIN-AUDIT:7067ceac-8e30-458b-b2bc-bc0aea489c7d",
     "entity_type": "SESSION",
     "id": "7067ceac-8e30-458b-b2bc-bc0aea489c7d",
     "metadata_json": "{}",
@@ -8156,7 +8156,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "1b75a3835dfa0199e5d530d89e28338171eddd22968ca73efd07207fdcb4b563",
+    "entity_id": "LOGIN-AUDIT:7b82604f-cca9-454c-b032-0e221d66cb3c",
     "entity_type": "SESSION",
     "id": "7b82604f-cca9-454c-b032-0e221d66cb3c",
     "metadata_json": "{}",
@@ -8921,7 +8921,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "35338008eb406da620b74365d1e5f3d035cfc3045093c10718393497e98859cf",
+    "entity_id": "LOGIN-AUDIT:8da40470-39e8-42a5-b528-317c02aa7c01",
     "entity_type": "SESSION",
     "id": "8da40470-39e8-42a5-b528-317c02aa7c01",
     "metadata_json": "{}",
@@ -8930,7 +8930,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "bdc38414b746b124fd7baf70ebf044b5e9d848431d1316d522c8b0f6cbb7c93c",
+    "entity_id": "LOGIN-AUDIT:92daa48c-0d8e-4f61-8825-d248f3626831",
     "entity_type": "SESSION",
     "id": "92daa48c-0d8e-4f61-8825-d248f3626831",
     "metadata_json": "{}",
@@ -8939,7 +8939,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "0adf33850fce7aefa9c2fa76addaf06e41408aeaf8cb317a2d68d2f31604d651",
+    "entity_id": "LOGIN-AUDIT:0f8fa4d9-6481-410e-b73a-90e601b2bf6d",
     "entity_type": "SESSION",
     "id": "0f8fa4d9-6481-410e-b73a-90e601b2bf6d",
     "metadata_json": "{}",
@@ -8948,7 +8948,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "ed5f6890abe07d400f5cdf2d085698f9ec9339ec273d719bfac7120f7f953a7d",
+    "entity_id": "LOGIN-AUDIT:360233b8-53a4-43dc-96ef-6d7701ffd61e",
     "entity_type": "SESSION",
     "id": "360233b8-53a4-43dc-96ef-6d7701ffd61e",
     "metadata_json": "{}",
@@ -8957,7 +8957,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "a63295863e5c8b610a81107c96696f4cc7f85352efa63fa47f581d02ace4a4ff",
+    "entity_id": "LOGIN-AUDIT:902406e1-3897-4d77-a8aa-c198b7516521",
     "entity_type": "SESSION",
     "id": "902406e1-3897-4d77-a8aa-c198b7516521",
     "metadata_json": "{}",
@@ -8966,7 +8966,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "ca76832a874e5387f9d2a7f6eb71fe6f392a983d376edb9501184a16eddc9a9f",
+    "entity_id": "LOGIN-AUDIT:19f119d8-ff28-4ae3-b147-8025d676efcb",
     "entity_type": "SESSION",
     "id": "19f119d8-ff28-4ae3-b147-8025d676efcb",
     "metadata_json": "{}",
@@ -8975,7 +8975,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "9081ae616d809c70bff50c83f3d7d25563335c04f20ff2229093a08e2c5d220a",
+    "entity_id": "LOGIN-AUDIT:fe575660-3985-40b9-ad6a-2824aafd11e9",
     "entity_type": "SESSION",
     "id": "fe575660-3985-40b9-ad6a-2824aafd11e9",
     "metadata_json": "{}",
@@ -8984,7 +8984,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "a974a009c9a1daa2dc97989b8b08005ec59b36bf8526bcfe784ddb71da93f953",
+    "entity_id": "LOGIN-AUDIT:6226bfb1-524b-4334-bd9d-d901de69c73d",
     "entity_type": "SESSION",
     "id": "6226bfb1-524b-4334-bd9d-d901de69c73d",
     "metadata_json": "{}",
@@ -8993,7 +8993,7 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "1a3e2132339464d52c1efe7d2be53de1404112a0c687302ed59b73059087f618",
+    "entity_id": "LOGIN-AUDIT:038f0c77-7d98-4bc9-be4e-32aec769d086",
     "entity_type": "SESSION",
     "id": "038f0c77-7d98-4bc9-be4e-32aec769d086",
     "metadata_json": "{}",
@@ -9002,10 +9002,28 @@
   {
     "action": "LOGIN",
     "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
-    "entity_id": "87e1c797d652227926a8def0d6de40298bc68642068d739603a8fd052e5f3eda",
+    "entity_id": "LOGIN-AUDIT:9a0e36cf-cbd9-4b49-ad1b-4648e8f7028c",
     "entity_type": "SESSION",
     "id": "9a0e36cf-cbd9-4b49-ad1b-4648e8f7028c",
     "metadata_json": "{}",
     "occurred_at": "2026-09-24 00:33:52"
+  },
+  {
+    "action": "LOGIN",
+    "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
+    "entity_id": "LOGIN-AUDIT:b4d54c97-b9ab-46d8-87ab-35561a5286dd",
+    "entity_type": "SESSION",
+    "id": "b4d54c97-b9ab-46d8-87ab-35561a5286dd",
+    "metadata_json": "{}",
+    "occurred_at": "2026-10-09 02:33:26"
+  },
+  {
+    "action": "CREATE",
+    "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
+    "entity_id": "TEST-E2E-20261009T023654Z",
+    "entity_type": "SUPPLIER",
+    "id": "03327fc7-8df4-4b26-bb23-513819b59f29",
+    "metadata_json": "{\"supplierName\":\"TEST FactoryOps GitHub Sync E2E 2026-10-09\"}",
+    "occurred_at": "2026-10-09 02:37:09"
   }
 ]
