@@ -2268,6 +2268,30 @@
     "requirement_date_snapshot": null
   },
   {
+    "allocated_quantity": 1,
+    "demand_active_snapshot": 1,
+    "demand_quantity_snapshot": 1,
+    "demand_tracking_line_id": "49dc2c7e-4239-435a-ae4e-e5932c5dc354",
+    "demand_tracking_version_snapshot": 1,
+    "group_requirement_date_snapshot": "2026-11-15",
+    "id": "fd5358d0-27db-4c6b-9f95-dcf680c4c24a",
+    "planned_order_id": "b6f54f2f-e149-48fa-ad21-cb997ae53340",
+    "product_sku_snapshot": "LGS131B101V1S",
+    "requirement_date_snapshot": "2026-11-18"
+  },
+  {
+    "allocated_quantity": 1,
+    "demand_active_snapshot": 1,
+    "demand_quantity_snapshot": 1,
+    "demand_tracking_line_id": "b37ee930-0715-43f1-8471-e41649d242f9",
+    "demand_tracking_version_snapshot": 1,
+    "group_requirement_date_snapshot": "2026-11-15",
+    "id": "378ad268-fea0-4368-acee-2e84c46ce290",
+    "planned_order_id": "b6f54f2f-e149-48fa-ad21-cb997ae53340",
+    "product_sku_snapshot": "LGS131B101V1S",
+    "requirement_date_snapshot": "2026-11-15"
+  },
+  {
     "allocated_quantity": 121,
     "demand_active_snapshot": null,
     "demand_quantity_snapshot": null,

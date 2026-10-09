@@ -9043,5 +9043,14 @@
     "id": "664f8460-fc5e-414d-a6e0-197233f72079",
     "metadata_json": "{\"sourceFingerprint\":\"e42875d4b500a617850670196f2ec7cd5b4ad3c36e2876bc6014cd266df26f09\",\"lineCount\":2,\"totalQuantity\":2}",
     "occurred_at": "2026-10-09 06:45:48"
+  },
+  {
+    "action": "GENERATE",
+    "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
+    "entity_id": "b6f54f2f-e149-48fa-ad21-cb997ae53340",
+    "entity_type": "PLANNED_PRODUCTION_ORDER",
+    "id": "1bd34375-56d3-4a51-b8cd-2ccd14f33fef",
+    "metadata_json": "{\"orderNumber\":\"PL-2611-00001\",\"lotSizingMethod\":\"DAILY_LOT_FOR_LOT\",\"demandLineCount\":2,\"plannedQuantity\":2,\"requirementDate\":\"2026-11-15\",\"scheduledDate\":\"2026-11-14\",\"planningDailyCapacity\":1600,\"levelingHorizonDays\":7}",
+    "occurred_at": "2026-10-09 06:48:31"
   }
 ]
