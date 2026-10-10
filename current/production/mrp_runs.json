@@ -123,6 +123,15 @@
     "id": "6ae4ede0-d39d-42ed-8f1b-ba8be273f3ea",
     "pdm_source_commit_sha": "ba53342c61af25f7bdfcefbd1d4b81e8b5dfe90b",
     "run_number": "MRP-20260917064634-6AE4",
+    "status": "SUPERSEDED"
+  },
+  {
+    "bom_versions": "V2.1、V3、V3.1、V3.3、V4、V4.1、V4.2、V5.1",
+    "created_at": "2026-10-10 01:08:15",
+    "created_by": "00000000-0000-0000-0000-000000000001",
+    "id": "96b70dff-5013-420e-9dd7-61f5cf46c6ae",
+    "pdm_source_commit_sha": "ba53342c61af25f7bdfcefbd1d4b81e8b5dfe90b",
+    "run_number": "MRP-20261010010815-96B7",
     "status": "COMPLETED"
   }
 ]

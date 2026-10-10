@@ -9097,5 +9097,14 @@
     "id": "b2917ba0-5668-4fac-8392-384abd9cd4dc",
     "metadata_json": "{\"expectedVersion\":1,\"bomRevision\":\"V3\",\"pdmSourceCommitSha\":\"ba53342c61af25f7bdfcefbd1d4b81e8b5dfe90b\",\"bomLines\":71}",
     "occurred_at": "2026-10-10 01:07:45"
+  },
+  {
+    "action": "RUN",
+    "actor_id": "00000000-0000-0000-0000-000000000001",
+    "entity_id": "96b70dff-5013-420e-9dd7-61f5cf46c6ae",
+    "entity_type": "MRP",
+    "id": "de420822-8886-4fdf-848f-f818b96bffef",
+    "metadata_json": "{\"runNumber\":\"MRP-20261010010815-96B7\",\"materialCount\":430,\"sourceRowCount\":3901,\"sourceProductionPlanCount\":95,\"pdmSourceCommitSha\":\"ba53342c61af25f7bdfcefbd1d4b81e8b5dfe90b\",\"trigger\":\"AUTO_REFRESH\"}",
+    "occurred_at": "2026-10-10 01:08:15"
   }
 ]
