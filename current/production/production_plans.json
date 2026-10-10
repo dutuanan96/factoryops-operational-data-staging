@@ -2058,8 +2058,8 @@
     "version": 1
   },
   {
-    "bom_revision": null,
-    "bom_source_commit_sha": null,
+    "bom_revision": "V3",
+    "bom_source_commit_sha": "ba53342c61af25f7bdfcefbd1d4b81e8b5dfe90b",
     "completed_at": null,
     "created_at": "2026-10-09 06:50:33",
     "created_by": "acce4cff-6984-4fdd-884e-f53906435484",
@@ -2071,11 +2071,11 @@
     "planned_quantity": 2,
     "planning_model": "DAILY_LOT_FOR_LOT",
     "product_sku": "LGS131B101V1S",
-    "released_at": null,
-    "released_by": null,
+    "released_at": "2026-10-10 01:07:45",
+    "released_by": "acce4cff-6984-4fdd-884e-f53906435484",
     "started_at": null,
     "started_by": null,
-    "status": "DRAFT",
-    "version": 1
+    "status": "RELEASED",
+    "version": 2
   }
 ]

@@ -9070,5 +9070,32 @@
     "id": "f9c7bd0e-9610-4d6f-ab85-d4ef7ae03081",
     "metadata_json": "{\"plannedOrderNumber\":\"PL-2611-00001\",\"productionOrderNumber\":\"MO-2611-00001\",\"productionPlanId\":\"612842e7-b936-41fa-a432-c65568c2d897\",\"plannedQuantity\":2,\"requirementDate\":\"2026-11-15\",\"scheduledDate\":\"2026-11-14\"}",
     "occurred_at": "2026-10-09 06:50:33"
+  },
+  {
+    "action": "LOGIN",
+    "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
+    "entity_id": "LOGIN-AUDIT:969ac1b8-a1b9-4c67-a7b5-076f92876d19",
+    "entity_type": "SESSION",
+    "id": "969ac1b8-a1b9-4c67-a7b5-076f92876d19",
+    "metadata_json": "{}",
+    "occurred_at": "2026-10-10 00:50:33"
+  },
+  {
+    "action": "LOGIN",
+    "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
+    "entity_id": "LOGIN-AUDIT:3dad9871-4c41-432e-922c-10c4a59a8091",
+    "entity_type": "SESSION",
+    "id": "3dad9871-4c41-432e-922c-10c4a59a8091",
+    "metadata_json": "{}",
+    "occurred_at": "2026-10-10 00:52:54"
+  },
+  {
+    "action": "RELEASE",
+    "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
+    "entity_id": "612842e7-b936-41fa-a432-c65568c2d897",
+    "entity_type": "PRODUCTION_PLAN",
+    "id": "b2917ba0-5668-4fac-8392-384abd9cd4dc",
+    "metadata_json": "{\"expectedVersion\":1,\"bomRevision\":\"V3\",\"pdmSourceCommitSha\":\"ba53342c61af25f7bdfcefbd1d4b81e8b5dfe90b\",\"bomLines\":71}",
+    "occurred_at": "2026-10-10 01:07:45"
   }
 ]
