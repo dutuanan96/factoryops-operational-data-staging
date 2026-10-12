@@ -9106,5 +9106,23 @@
     "id": "de420822-8886-4fdf-848f-f818b96bffef",
     "metadata_json": "{\"runNumber\":\"MRP-20261010010815-96B7\",\"materialCount\":430,\"sourceRowCount\":3901,\"sourceProductionPlanCount\":95,\"pdmSourceCommitSha\":\"ba53342c61af25f7bdfcefbd1d4b81e8b5dfe90b\",\"trigger\":\"AUTO_REFRESH\"}",
     "occurred_at": "2026-10-10 01:08:15"
+  },
+  {
+    "action": "LOGIN",
+    "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
+    "entity_id": "LOGIN-AUDIT:78a58ddc-edf8-4393-8040-b10371cdc97e",
+    "entity_type": "SESSION",
+    "id": "78a58ddc-edf8-4393-8040-b10371cdc97e",
+    "metadata_json": "{}",
+    "occurred_at": "2026-10-12 09:22:16"
+  },
+  {
+    "action": "CREATE",
+    "actor_id": "acce4cff-6984-4fdd-884e-f53906435484",
+    "entity_id": "dbd89749-a12f-4541-bb67-a5160f2d8a57",
+    "entity_type": "USER",
+    "id": "a9d2f74f-5176-4857-aa1d-77a4b4d8dfb4",
+    "metadata_json": "{\"username\":\"purchasing01\",\"role\":\"PURCHASING\"}",
+    "occurred_at": "2026-10-12 09:33:39"
   }
 ]
